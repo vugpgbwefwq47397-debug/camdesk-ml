@@ -1,0 +1,1458 @@
+{
+  "30-minute timer": {
+    "before": "30分钟计时器",
+    "after": "30分钟取景限制"
+  },
+  "3rd p. flash LV": {
+    "before": "第三方闪光LV",
+    "after": "取景时外接闪光"
+  },
+  "A-ISO smoothness": {
+    "before": "A-ISO平滑度",
+    "after": "自动ISO平滑程度"
+  },
+  "AF/MF warning": {
+    "before": "AF/MF警告",
+    "after": "对焦模式提醒"
+  },
+  "ALO warning": {
+    "before": "ALO警告",
+    "after": "自动亮度优化提醒"
+  },
+  "Absolute Zero Sharpness": {
+    "before": "绝对零锐度",
+    "after": "彻底关闭锐化"
+  },
+  "Advanced Bracket": {
+    "before": "高级包围",
+    "after": "包围拍摄"
+  },
+  "Allowed actions": {
+    "before": "允许的操作",
+    "after": "按键功能"
+  },
+  "Anamorphic": {
+    "before": "变形宽屏",
+    "after": "变形镜头预览"
+  },
+  "Arrow/SET shortcuts": {
+    "before": "方向键/SET快捷",
+    "after": "方向键／SET 快捷键"
+  },
+  "Audio RemoteShot": {
+    "before": "音频遥控",
+    "after": "声音触发拍摄"
+  },
+  "Auto adjust Green-Magenta": {
+    "before": "自动调整绿-洋红",
+    "after": "自动矫正绿／洋红"
+  },
+  "Auto adjust Kelvin + G/M": {
+    "before": "自动调整色温+G/M",
+    "after": "自动调整色温和色偏"
+  },
+  "Auto exposure on Zoom": {
+    "before": "变焦时自动曝光",
+    "after": "放大时自动曝光"
+  },
+  "Autoload Conf": {
+    "before": "自动加载配置",
+    "after": "自动载入设置"
+  },
+  "B multiplier": {
+    "before": "B乘数",
+    "after": "蓝色通道增益"
+  },
+  "Beep, test tones": {
+    "before": "蜂鸣测试音",
+    "after": "提示音与测试音"
+  },
+  "Bracket focus": {
+    "before": "包围对焦",
+    "after": "对焦包围"
+  },
+  "Bracket type": {
+    "before": "包围类型",
+    "after": "包围方式"
+  },
+  "Bramp": {
+    "before": "渐变B门",
+    "after": "B门渐变曝光"
+  },
+  "Build": {
+    "before": "构建",
+    "after": "构建版本"
+  },
+  "Bulb Duration": {
+    "before": "B门时长",
+    "after": "B门曝光时间"
+  },
+  "Bulb ND": {
+    "before": "B门ND",
+    "after": "B门减光补偿"
+  },
+  "Bulb Timer": {
+    "before": "B门计时器",
+    "after": "B门定时拍摄"
+  },
+  "CF card workaround": {
+    "before": "CF卡变通",
+    "after": "CF卡兼容选项"
+  },
+  "Canon analog ISO": {
+    "before": "佳能模拟ISO",
+    "after": "佳能模拟增益"
+  },
+  "Canon digital ISO": {
+    "before": "佳能数字ISO",
+    "after": "佳能数字增益"
+  },
+  "Capability": {
+    "before": "能力",
+    "after": "支持的功能"
+  },
+  "Card label": {
+    "before": "卡标签",
+    "after": "存储卡卷标"
+  },
+  "Card test at startup": {
+    "before": "启动时测试卡",
+    "after": "开机时检查存储卡"
+  },
+  "Center selection": {
+    "before": "中心选择",
+    "after": "中央对焦点组合"
+  },
+  "Clear overlays": {
+    "before": "清除叠加",
+    "after": "清除辅助图层"
+  },
+  "Clip warning": {
+    "before": "削波警告",
+    "after": "高光溢出警告"
+  },
+  "Config AutoSave": {
+    "before": "配置自动保存",
+    "after": "自动保存设置"
+  },
+  "Config Loaded": {
+    "before": "配置已加载",
+    "after": "设置已载入"
+  },
+  "Config Select": {
+    "before": "配置选择",
+    "after": "选择设置方案"
+  },
+  "Config options": {
+    "before": "配置选项",
+    "after": "设置管理"
+  },
+  "Config preset": {
+    "before": "配置预设",
+    "after": "设置方案"
+  },
+  "Copy rack focus range": {
+    "before": "复制变焦对焦范围",
+    "after": "沿用焦点切换范围"
+  },
+  "Crop Factor Display": {
+    "before": "裁切系数显示",
+    "after": "显示等效焦距"
+  },
+  "Crop amount top/bot": {
+    "before": "裁切量上/下",
+    "after": "上下裁切范围"
+  },
+  "Cropmarks": {
+    "before": "裁切标记",
+    "after": "画幅参考线"
+  },
+  "DOF info in LiveView": {
+    "before": "LV中显示景深",
+    "after": "取景时显示景深"
+  },
+  "Defishing": {
+    "before": "去鱼眼",
+    "after": "鱼眼畸变校正"
+  },
+  "Delete config": {
+    "before": "删除配置",
+    "after": "删除设置方案"
+  },
+  "Desaturate": {
+    "before": "去饱和",
+    "after": "降低饱和度"
+  },
+  "Detect Size": {
+    "before": "检测尺寸",
+    "after": "检测区域"
+  },
+  "DigitalZoom Shortcut": {
+    "before": "数字变焦快捷",
+    "after": "数字放大快捷键"
+  },
+  "Dim display": {
+    "before": "暗淡显示",
+    "after": "降低屏幕亮度"
+  },
+  "Display Shake": {
+    "before": "显示抖动",
+    "after": "抖动放大预览"
+  },
+  "Don't click me!": {
+    "before": "别点我!",
+    "after": "实验测试（请勿运行）"
+  },
+  "Dump ROM and RAM": {
+    "before": "转储ROM和RAM",
+    "after": "导出固件与内存"
+  },
+  "Dump image buffers": {
+    "before": "转储图像缓冲",
+    "after": "导出图像缓冲数据"
+  },
+  "EV increment": {
+    "before": "EV增量",
+    "after": "曝光步长"
+  },
+  "EV indic": {
+    "before": "EV指示",
+    "after": "曝光余量"
+  },
+  "Edge Emphasis": {
+    "before": "边缘强调",
+    "after": "边缘增强"
+  },
+  "Enable Beeps": {
+    "before": "启用蜂鸣",
+    "after": "启用提示音"
+  },
+  "Equivalent ISO": {
+    "before": "等效ISO",
+    "after": "等效感光度"
+  },
+  "Expo override": {
+    "before": "曝光覆盖",
+    "after": "扩展曝光控制"
+  },
+  "Expo. Override": {
+    "before": "曝光覆盖",
+    "after": "扩展曝光控制"
+  },
+  "Ext. step edit": {
+    "before": "外部步长编辑",
+    "after": "编辑曝光参数组"
+  },
+  "Ext. steps": {
+    "before": "外部步数",
+    "after": "曝光参数组数"
+  },
+  "Extended mode": {
+    "before": "扩展模式",
+    "after": "扩展设置"
+  },
+  "Extreme corner correction": {
+    "before": "极端边角校正",
+    "after": "最边缘区域校正"
+  },
+  "FPS override": {
+    "before": "帧率覆盖",
+    "after": "自定义帧率"
+  },
+  "Filter bias": {
+    "before": "滤波偏置",
+    "after": "检测偏好"
+  },
+  "Focus Patterns": {
+    "before": "对焦模式",
+    "after": "对焦点组合"
+  },
+  "Focus Peak": {
+    "before": "对焦峰值",
+    "after": "峰值对焦"
+  },
+  "Focus Shortcuts": {
+    "before": "对焦快捷",
+    "after": "对焦快捷键"
+  },
+  "G multiplier": {
+    "before": "G乘数",
+    "after": "绿色通道增益"
+  },
+  "Global Draw": {
+    "before": "全局绘制",
+    "after": "辅助显示开关"
+  },
+  "HPF2 Cutoff Hz": {
+    "before": "HPF2截止Hz",
+    "after": "高通截止频率（Hz）"
+  },
+  "Horizontal selection": {
+    "before": "水平选择",
+    "after": "横向对焦点组合"
+  },
+  "ISO Range": {
+    "before": "ISO范围",
+    "after": "感光度范围"
+  },
+  "Image Review": {
+    "before": "图像回看",
+    "after": "拍摄后回看"
+  },
+  "LV Display": {
+    "before": "LV显示",
+    "after": "实时取景显示"
+  },
+  "LV FPS override": {
+    "before": "LV帧率覆盖",
+    "after": "LV自定义帧率"
+  },
+  "LV Rec": {
+    "before": "LV录制",
+    "after": "实时取景录制"
+  },
+  "LV Saturation": {
+    "before": "LV饱和度",
+    "after": "取景饱和度"
+  },
+  "LiveView Zoom": {
+    "before": "LV变焦",
+    "after": "LV放大"
+  },
+  "Load Config": {
+    "before": "加载配置",
+    "after": "载入设置"
+  },
+  "Load config": {
+    "before": "加载配置",
+    "after": "载入设置"
+  },
+  "MLU": {
+    "before": "反光板预升",
+    "after": "反光镜预升"
+  },
+  "Mic Boost": {
+    "before": "麦克风增强",
+    "after": "麦克风增益增强"
+  },
+  "Mirror Lock-up": {
+    "before": "反光板锁定",
+    "after": "反光镜预升"
+  },
+  "Motion Detect": {
+    "before": "运动检测",
+    "after": "运动触发拍摄"
+  },
+  "Movie Tweaks": {
+    "before": "视频调整",
+    "after": "录像设置"
+  },
+  "Pics": {
+    "before": "张数",
+    "after": "照片张数"
+  },
+  "Quick Zoom": {
+    "before": "快速变焦",
+    "after": "快速放大"
+  },
+  "R multiplier": {
+    "before": "R乘数",
+    "after": "红色通道增益"
+  },
+  "SET at startup": {
+    "before": "启动时设置",
+    "after": "开机时 SET 键"
+  },
+  "Save config": {
+    "before": "保存配置",
+    "after": "保存设置"
+  },
+  "Scaling": {
+    "before": "缩放",
+    "after": "亮度刻度"
+  },
+  "Show cropmarks": {
+    "before": "显示裁切标记",
+    "after": "显示画幅参考线"
+  },
+  "Space": {
+    "before": "空间",
+    "after": "剩余容量"
+  },
+  "Space GB": {
+    "before": "空间GB",
+    "after": "剩余容量（GB）"
+  },
+  "Space Pics": {
+    "before": "空间张数",
+    "after": "剩余可拍张数"
+  },
+  "Spotmeter": {
+    "before": "点测光",
+    "after": "点测光表"
+  },
+  "Spotmeter Unit": {
+    "before": "点测光单位",
+    "after": "点测光表单位"
+  },
+  "Start trigger": {
+    "before": "启动触发",
+    "after": "启动方式"
+  },
+  "Test beep sound": {
+    "before": "测试蜂鸣声",
+    "after": "测试提示音"
+  },
+  "Tone Frequency": {
+    "before": "音波频率",
+    "after": "测试音频率"
+  },
+  "Tone Waveform": {
+    "before": "音波波形",
+    "after": "测试音波形"
+  },
+  "Vertical selection": {
+    "before": "垂直选择",
+    "after": "纵向对焦点组合"
+  },
+  "Vignetting": {
+    "before": "暗角",
+    "after": "暗角校正"
+  },
+  "WB BA": {
+    "before": "白平衡 BA",
+    "after": "蓝／琥珀矫正"
+  },
+  "WB GM": {
+    "before": "白平衡 GM",
+    "after": "绿／洋红矫正"
+  },
+  "WB Shift": {
+    "before": "白平衡偏移",
+    "after": "白平衡矫正"
+  },
+  "Wind Filter": {
+    "before": "风声滤波",
+    "after": "风声抑制"
+  },
+  "Zoom": {
+    "before": "变焦",
+    "after": "放大"
+  },
+  "Zoom Bar": {
+    "before": "变焦条",
+    "after": "放大条"
+  },
+  "Zoom x1": {
+    "before": "变焦x1",
+    "after": "原倍率取景"
+  },
+  "Zoom x10": {
+    "before": "变焦x10",
+    "after": "取景10倍放大"
+  },
+  "Zoom x5": {
+    "before": "变焦x5",
+    "after": "取景5倍放大"
+  },
+  "zoom": {
+    "before": "变焦",
+    "after": "放大"
+  },
+  "Diffraction-aware": {
+    "before": "衍射感知",
+    "after": "考虑衍射"
+  },
+  "Strong edges": {
+    "before": "强边缘",
+    "after": "明显边缘"
+  },
+  "Fine details": {
+    "before": "精细细节",
+    "after": "细微纹理"
+  },
+  "FocusR+HalfS": {
+    "before": "对焦环+半按",
+    "after": "对焦环或半按快门"
+  },
+  "Zoom.REC": {
+    "before": "录制时缩放",
+    "after": "录像时放大"
+  },
+  "Focus+ZREC": {
+    "before": "对焦+录缩放",
+    "after": "对焦或录像时放大"
+  },
+  "Press SET": {
+    "before": "按设置键",
+    "after": "按 SET 键"
+  },
+  "Time Indicator": {
+    "before": "时间指示器",
+    "after": "录像时长显示"
+  },
+  "Time indicator": {
+    "before": "时间指示器",
+    "after": "录像时长显示"
+  },
+  "Follow Focus": {
+    "before": "跟随对焦",
+    "after": "跟焦"
+  },
+  "Focus End Point": {
+    "before": "对焦终点",
+    "after": "目标对焦点"
+  },
+  "Rack Focus": {
+    "before": "移位对焦",
+    "after": "焦点切换"
+  },
+  "Focus Stacking": {
+    "before": "焦点堆叠",
+    "after": "景深合成拍摄"
+  },
+  "Run focus stack": {
+    "before": "运行焦点堆叠",
+    "after": "开始分层拍摄"
+  },
+  "Num. pics in front": {
+    "before": "前方拍摄数",
+    "after": "前景拍摄张数"
+  },
+  "Num. pics behind": {
+    "before": "后方拍摄数",
+    "after": "后景拍摄张数"
+  },
+  "Magic Zoom": {
+    "before": "魔法缩放",
+    "after": "局部放大"
+  },
+  "Ghost image": {
+    "before": "幽灵图像",
+    "after": "参考图叠加"
+  },
+  "RAW EV indicator": {
+    "before": "RAW EV指示器",
+    "after": "RAW曝光余量"
+  },
+  "Show Overlay FPS": {
+    "before": "显示叠加FPS",
+    "after": "辅助显示帧率"
+  },
+  "LV Display Presets": {
+    "before": "LV显示预设",
+    "after": "取景显示预设"
+  },
+  "Misc key settings": {
+    "before": "按键杂项设置",
+    "after": "其他按键设置"
+  },
+  "LCD Sensor Shortcuts": {
+    "before": "LCD传感器快捷键",
+    "after": "屏幕感应器快捷键"
+  },
+  "Sticky DOF Preview": {
+    "before": "景深预览锁定",
+    "after": "景深预览保持"
+  },
+  "Sticky HalfShutter": {
+    "before": "半按快门锁定",
+    "after": "半按快门保持"
+  },
+  "Swap MENU <--> ERASE": {
+    "before": "交换MENU <--> ERASE",
+    "after": "交换菜单键与删除键"
+  },
+  "Swap INFO <--> PLAY": {
+    "before": "交换INFO <--> PLAY",
+    "after": "交换信息键与回放键"
+  },
+  "Warning for bad settings": {
+    "before": "错误设置警告",
+    "after": "拍摄设置检查"
+  },
+  "Mode warning": {
+    "before": "模式警告",
+    "after": "拍摄模式提醒"
+  },
+  "Quality warning": {
+    "before": "画质警告",
+    "after": "画质提醒"
+  },
+  "WB warning": {
+    "before": "白平衡警告",
+    "after": "白平衡提醒"
+  },
+  "Warning message": {
+    "before": "警告消息",
+    "after": "提醒内容"
+  },
+  "Flashlight": {
+    "before": "闪光灯",
+    "after": "照明测试"
+  },
+  "Unmount SD card": {
+    "before": "卸载SD卡",
+    "after": "安全卸载SD卡"
+  },
+  "Shutter Count": {
+    "before": "快门计数",
+    "after": "快门次数"
+  },
+  "Total Shutter/Mirror/Shots": {
+    "before": "总快门/反光板/拍摄",
+    "after": "快门／反光镜／照片计数"
+  },
+  "Internal Temp": {
+    "before": "内部温度",
+    "after": "机内温度"
+  },
+  "Movie Logging": {
+    "before": "视频日志",
+    "after": "录像参数记录"
+  },
+  "Free space": {
+    "before": "剩余空间",
+    "after": "剩余容量"
+  },
+  "Frames": {
+    "before": "帧数",
+    "after": "拍摄张数"
+  },
+  "Sequence": {
+    "before": "序列",
+    "after": "拍摄顺序"
+  },
+  "ISO shifting": {
+    "before": "ISO偏移",
+    "after": "感光度联动"
+  },
+  "Start after": {
+    "before": "开始于",
+    "after": "起拍延时"
+  },
+  "Stop after": {
+    "before": "停止于",
+    "after": "拍摄次数"
+  },
+  "LCDsensor Remote": {
+    "before": "LCD传感器遥控",
+    "after": "屏幕感应遥控"
+  },
+  "Trigger level (dB)": {
+    "before": "触发电平(dB)",
+    "after": "声音阈值（dB）"
+  },
+  "Trigger by": {
+    "before": "触发方式",
+    "after": "触发条件"
+  },
+  "Trigger level": {
+    "before": "触发电平",
+    "after": "触发阈值"
+  },
+  "Mirror Lockup": {
+    "before": "反光板锁定",
+    "after": "反光镜预升"
+  },
+  "MLU mode": {
+    "before": "MLU模式",
+    "after": "预升模式"
+  },
+  "Handheld Shutter": {
+    "before": "手持快门",
+    "after": "手持适用快门"
+  },
+  "Handheld Delay": {
+    "before": "手持延迟",
+    "after": "手持预升延时"
+  },
+  "Normal MLU Delay": {
+    "before": "正常MLU延迟",
+    "after": "预升延时"
+  },
+  "Voice Tags": {
+    "before": "语音标签",
+    "after": "语音备注"
+  },
+  "Flash Tweaks": {
+    "before": "闪光调整",
+    "after": "闪光灯设置"
+  },
+  "Flash / No flash": {
+    "before": "闪光/无闪光",
+    "after": "交替使用闪光"
+  },
+  "Shoot Preferences": {
+    "before": "拍摄偏好",
+    "after": "拍摄设置"
+  },
+  "Pics at once": {
+    "before": "一次拍摄张数",
+    "after": "每次拍摄张数"
+  },
+  "Post scripts": {
+    "before": "后处理脚本",
+    "after": "后期处理脚本"
+  },
+  "Snap Simulation": {
+    "before": "快门模拟",
+    "after": "模拟拍摄"
+  },
+  "LiveView zoom tweaks": {
+    "before": "实时取景缩放调整",
+    "after": "取景放大设置"
+  },
+  "Zoom on HalfShutter": {
+    "before": "半按快门缩放",
+    "after": "半按时允许放大"
+  },
+  "Zoom with Focus Ring": {
+    "before": "对焦环缩放",
+    "after": "转对焦环时放大"
+  },
+  "Zoom with old button": {
+    "before": "旧按钮缩放",
+    "after": "使用原放大键"
+  },
+  "WBShift G/M": {
+    "before": "白平衡偏移 G/M",
+    "after": "白平衡绿／洋红矫正"
+  },
+  "WBShift B/A": {
+    "before": "白平衡偏移 B/A",
+    "after": "白平衡蓝／琥珀矫正"
+  },
+  "ML digital ISO": {
+    "before": "ML数字ISO",
+    "after": "魔灯数字增益"
+  },
+  "Ramp duration": {
+    "before": "渐变持续时间",
+    "after": "渐变时长"
+  },
+  "Movie Record": {
+    "before": "视频录制",
+    "after": "录像"
+  },
+  "Require long press": {
+    "before": "需要长按",
+    "after": "长按才生效"
+  },
+  "MOV/MP4 time limit": {
+    "before": "MOV/MP4时间限制",
+    "after": "单段录像时长"
+  },
+  "Gradual Exposure": {
+    "before": "渐变曝光",
+    "after": "平滑曝光"
+  },
+  "Movie Restart": {
+    "before": "视频重启",
+    "after": "自动续录"
+  },
+  "REC/STBY notify": {
+    "before": "录制/待机通知",
+    "after": "录制状态提醒"
+  },
+  "Force LiveView": {
+    "before": "强制实时取景",
+    "after": "自动开启实时取景"
+  },
+  "Force style for REC": {
+    "before": "录制时强制风格",
+    "after": "录像专用照片风格"
+  },
+  "Style for recording": {
+    "before": "录制风格",
+    "after": "录像照片风格"
+  },
+  "Turn off LCD": {
+    "before": "关闭LCD",
+    "after": "关闭屏幕"
+  },
+  "Turn off GlobalDraw": {
+    "before": "关闭全局绘制",
+    "after": "关闭辅助显示"
+  },
+  "SET / main dial": {
+    "before": "SET / 主拨盘",
+    "after": "SET 键／主拨盘"
+  },
+  "Press MENU": {
+    "before": "按菜单键",
+    "after": "按 MENU 键"
+  },
+  "Key Shortcuts": {
+    "before": "按键快捷方式",
+    "after": "按键快捷键"
+  },
+  "Video Hacks": {
+    "before": "视频破解",
+    "after": "录像扩展"
+  },
+  "LV raw type": {
+    "before": "LV raw类型",
+    "after": "取景RAW数据类型"
+  },
+  "Press SET for rack focus, or PLAY to also start recording.": {
+    "before": "按SET移位对焦,或按PLAY同时开始录制",
+    "after": "按SET焦点切换,或按PLAY同时开始录制"
+  },
+  "Takes pictures at different focus points.": {
+    "before": "在不同对焦点拍摄",
+    "after": "逐次改变对焦距离拍照，供后期合成景深。"
+  },
+  "Run the focus stacking sequence.": {
+    "before": "运行焦点堆叠序列",
+    "after": "运行景深合成拍摄序列"
+  },
+  "Number of shots in front of current focus point.": {
+    "before": "当前对焦点前方的拍摄数",
+    "after": "在当前焦点前方拍摄的张数。"
+  },
+  "Number of shots behind current focus point.": {
+    "before": "当前对焦点后方的拍摄数",
+    "after": "在当前焦点后方拍摄的张数。"
+  },
+  "Sets up stack focus to use the same range as rack focus.": {
+    "before": "设置堆叠对焦使用与移位对焦相同的范围",
+    "after": "沿用焦点切换的起点和终点，设置景深合成范围。"
+  },
+  "Enable/disable ML overlay graphics (zebra, cropmarks...)": {
+    "before": "启用/禁用ML叠加图形(斑马纹,裁切标记...)",
+    "after": "启用/禁用ML叠加图形(斑马纹,画幅参考线...)"
+  },
+  "Show which parts of the image are in focus.": {
+    "before": "显示图像中对焦清晰的区域",
+    "after": "用高亮边缘标出画面中清晰的区域。"
+  },
+  "Fine-tune the focus detection algorithm:": {
+    "before": "微调对焦检测算法:",
+    "after": "选择峰值对焦侧重检测哪类细节。"
+  },
+  "Zoom box for checking focus. Can be used while recording.": {
+    "before": "用于检查对焦的缩放框。可在录制时使用",
+    "after": "用于检查对焦的放大框。可在录制时使用"
+  },
+  "Trigger Magic Zoom by focus ring or half-shutter.": {
+    "before": "通过对焦环或半按快门触发魔法缩放",
+    "after": "转动对焦环或半按快门时，显示局部放大画面。"
+  },
+  "Zoom when recording / trigger from focus ring / Zoom button": {
+    "before": "录制时缩放/对焦环触发/缩放按钮",
+    "after": "录制时放大/对焦环触发/放大按钮"
+  },
+  "Size of zoom box (small / medium / large / full screen).": {
+    "before": "缩放框大小(小/中/大/全屏)",
+    "after": "放大框大小(小/中/大/全屏)"
+  },
+  "Size of zoom box (small / medium / large).": {
+    "before": "缩放框大小(小/中/大)",
+    "after": "放大框大小(小/中/大)"
+  },
+  "Position of zoom box (fixed or linked to focus box).": {
+    "before": "缩放框位置(固定或关联对焦框)",
+    "after": "放大框位置(固定或关联对焦框)"
+  },
+  "Overlay any image in LiveView. In PLAY mode, press LV btn.": {
+    "before": "在实时取景中叠加任意图像。回放模式按LV键",
+    "after": "将照片叠加到实时取景中辅助对齐，回放时按取景键选取。"
+  },
+  "Display warning dots when one color channel is clipped.": {
+    "before": "某颜色通道裁切时显示警告点",
+    "after": "任一颜色通道出现高光溢出时，显示警告标记。"
+  },
+  "Numbers represent the percentage of pixels clipped.": {
+    "before": "数字表示裁切像素的百分比",
+    "after": "数字表示溢出像素所占的百分比。"
+  },
+  "Save config now": {
+    "before": "立即保存配置",
+    "after": "立即保存设置"
+  },
+  "Restore ML defaults": {
+    "before": "恢复ML默认",
+    "after": "恢复魔灯默认设置"
+  },
+  "Disable global draw while recording for speed.": {
+    "before": "录制时禁用全局绘制以提速",
+    "after": "录制时禁用辅助显示以提速"
+  },
+  "Adjust Kelvin white balance.": {
+    "before": "调整开尔文白平衡。",
+    "after": "调整白平衡色温。"
+  },
+  "Advanced: WBShift, RGB multipliers, Push-button WB...": {
+    "before": "高级:白平衡偏移、RGB乘数、一键白平衡...",
+    "after": "高级:白平衡矫正、RGB乘数、一键白平衡..."
+  },
+  "Blue-Amber WBShift; 1 unit = 5 mireks on Kelvin axis.": {
+    "before": "蓝-琥珀白平衡偏移;1单位=开尔文轴上5 mireks。",
+    "after": "蓝-琥珀白平衡矫正;1单位=开尔文轴上5 mireks。"
+  },
+  "Changes the Kelvin white balance": {
+    "before": "更改开尔文白平衡",
+    "after": "调整白平衡色温。"
+  },
+  "Cropmarks are mostly used in movie mode.": {
+    "before": "裁切标记主要用于视频模式。",
+    "after": "画幅参考线主要用于视频模式。"
+  },
+  "Cropmarks or custom grids for framing.": {
+    "before": "裁切标记或自定义构图网格。",
+    "after": "叠加画幅参考线或自定义网格，辅助构图。"
+  },
+  "Edit ISO/Shutter settings.": {
+    "before": "编辑ISO/快门设置。",
+    "after": "编辑各组的感光度和快门参数。"
+  },
+  "Faster zoom in Play mode, for pixel peeping :)": {
+    "before": "回放模式更快缩放,用于像素级查看 :)",
+    "after": "回放模式更快放大,用于像素级查看 :)"
+  },
+  "Green-Magenta white balance shift, for fluorescent lights.": {
+    "before": "绿-品红白平衡偏移,用于荧光灯。",
+    "after": "绿-品红白平衡矫正,用于荧光灯。"
+  },
+  "LEFT/RIGHT: ISO. UP/DN: Kelvin white balance. SET: PushWB.": {
+    "before": "左/右:ISO。上/下:开尔文白平衡。SET:一键白平衡。",
+    "after": "左/右:ISO。上/下:白平衡色温。SET:一键白平衡。"
+  },
+  "LUT for increasing contrast in the zoom box.": {
+    "before": "提高缩放框对比度的LUT。",
+    "after": "提高放大框对比度的LUT。"
+  },
+  "MLU delay used with intervalometer, bracketing etc.": {
+    "before": "间隔拍摄、包围等使用的反光板锁定延迟。",
+    "after": "间隔拍摄、包围等使用的反光镜预升延迟。"
+  },
+  "MLU tricks: hand-held or self-timer modes.": {
+    "before": "反光板锁定技巧:手持或自拍模式。",
+    "after": "反光镜预升技巧:手持或自拍模式。"
+  },
+  "Number of ISO/Shutter settings.": {
+    "before": "ISO/快门设置数量。",
+    "after": "设置循环使用的感光度和快门参数组数。"
+  },
+  "Number of mirror move actions (DSLR, 0 on mirrorless)": {
+    "before": "反光板动作次数(单反,无反为0)",
+    "after": "反光镜动作次数（单反相机；无反相机为0）"
+  },
+  "RED channel multiplier, for custom white balance.": {
+    "before": "红色通道乘数,用于自定义白平衡。",
+    "after": "红色通道增益,用于自定义白平衡。"
+  },
+  "Remember last Zoom position in playback mode.": {
+    "before": "回放模式记忆上次缩放位置。",
+    "after": "回放模式记忆上次放大位置。"
+  },
+  "Step 1: achieve critical focus in LiveView with 10x zoom.": {
+    "before": "步骤1:在实时取景中用10x缩放实现精准对焦。",
+    "after": "步骤1:在实时取景中用10x放大实现精准对焦。"
+  },
+  "Turn off GlobalDraw when idle, to save some CPU cycles.": {
+    "before": "空闲时关闭全局绘制以节省CPU。",
+    "after": "空闲时关闭辅助显示以节省CPU。"
+  },
+  "Warn if you disable AWB by mistake.": {
+    "before": "误禁自动白平衡时警告。",
+    "after": "误关自动白平衡时警告。"
+  },
+  "You can draw your own cropmarks in Paint.": {
+    "before": "可在画图程序中绘制自己的裁切标记。",
+    "after": "可用电脑绘图软件制作画幅参考线。"
+  },
+  "You may also have cropmarks in Playback mode.": {
+    "before": "回放模式也可使用裁切标记。",
+    "after": "回放模式也可使用画幅参考线。"
+  },
+  "Session status": {
+    "before": "拍摄状态",
+    "after": "当前状态"
+  },
+  "Delay (seconds)": {
+    "before": "开始延迟（秒）",
+    "after": "起拍延时（秒）"
+  },
+  "Stop / Disarm": {
+    "before": "停止并取消",
+    "after": "停止拍摄"
+  },
+  "Armed": {
+    "before": "等待启动",
+    "after": "待启动"
+  },
+  "Press Q": {
+    "before": "按功能键",
+    "after": "按 Q 键"
+  },
+  "Use photo mode; disable HDR bracketing first.": {
+    "before": "请使用照片模式，并关闭包围曝光。",
+    "after": "请切换到照片模式，并关闭包围拍摄。"
+  },
+  "Armed. Exit menu, hold half-shutter, then release.": {
+    "before": "已准备：退出菜单，半按快门一秒后松开。",
+    "after": "已准备就绪。退出菜单，半按快门一秒后松开。"
+  },
+  "Stop the existing intervalometer first": {
+    "before": "请先关闭已有的间隔拍摄",
+    "after": "已有间隔拍摄任务，请先停止。"
+  },
+  "Required ML menu is unavailable": {
+    "before": "找不到所需的拍摄菜单",
+    "after": "未找到间隔拍摄功能，请检查魔灯版本。"
+  },
+  "Setup failed; previous settings restored": {
+    "before": "设置失败，已恢复原设置",
+    "after": "设置未成功，已恢复原来的参数。"
+  },
+  "Setup recovery failed: disable intervalometer and restart": {
+    "before": "恢复失败：请关闭间隔拍摄并重启",
+    "after": "未能恢复设置，请关闭间隔拍摄并重启相机。"
+  },
+  "Intervalometer disabled.": {
+    "before": "已关闭间隔拍摄。",
+    "after": "间隔拍摄已关闭。"
+  },
+  "Disable intervalometer in Shoot menu.": {
+    "before": "请到拍摄菜单关闭间隔拍摄。",
+    "after": "请在“拍摄”菜单中关闭间隔拍摄。"
+  },
+  "Automatic shooting using the native ML intervalometer.": {
+    "before": "调用魔灯原有引擎进行自动拍摄。",
+    "after": "按设定的间隔自动拍照。"
+  },
+  "Armed: exit menu, hold half-shutter, then release to start.": {
+    "before": "退出菜单，半按快门一秒后松开，即可启动。",
+    "after": "退出菜单，半按快门一秒后松开，开始拍摄。"
+  },
+  "Time between cycles. Applies on the next Arm plan.": {
+    "before": "两次拍摄之间的间隔，下次准备拍摄时生效。",
+    "after": "两次拍摄之间的间隔，修改后下次启用时生效。"
+  },
+  "Initial delay after the trigger (native ML minimum: 1 sec).": {
+    "before": "启动后的等待时间，原生引擎最少等待一秒。",
+    "after": "从启动到拍摄第一张的等待时间，最短1秒。"
+  },
+  "Finite sequence length. Native shooting settings still apply.": {
+    "before": "达到次数后停止，其他拍摄设置保持生效。",
+    "after": "达到设定次数后停止，其他参数沿用当前拍摄设置。"
+  },
+  "Apply settings; start later with half-shutter. Does not shoot now.": {
+    "before": "应用计划，退出菜单后用半按快门启动。",
+    "after": "保存本次计划，退出菜单后半按快门启动。"
+  },
+  "Disable ML intervalometer; an exposure in progress may finish.": {
+    "before": "关闭间隔拍摄，正在曝光的照片会正常结束。",
+    "after": "停止后不再拍下一张，当前曝光会正常完成。"
+  },
+  "Native cycle counter; saved files are not independently verified.": {
+    "before": "显示原生循环计数，请另行检查照片是否保存。",
+    "after": "显示本次拍摄进度，实际张数以存储卡中的照片为准。"
+  },
+  "Intended platform, not detected hardware.": {
+    "before": "此处为适用机型说明，并非硬件检测结果。",
+    "after": "本版本适用于此机型和固件版本。"
+  },
+  "Select to increment the session counter (wraps at 10000).": {
+    "before": "每按一次加一，达到一万后归零。",
+    "after": "每按一次计数加一，到一万后归零。"
+  },
+  "[GLOBAL] If you hold the SET button pressed at camera startup:": {
+    "before": "全局设置：开机时按住设置键的作用：",
+    "after": "开机时按住 SET 键，将执行以下操作："
+  },
+  "Do not load ML if you start the camera with SET pressed (default)": {
+    "before": "开机按住设置键时跳过魔灯（默认）。",
+    "after": "开机时按住 SET 键可跳过魔灯（默认）。"
+  },
+  "Load ML only if SET is pressed at startup (optional)": {
+    "before": "仅在开机按住设置键时加载魔灯（可选）。",
+    "after": "只有开机时按住 SET 键，才加载魔灯（可选）。"
+  },
+  "Total Mirror": {
+    "before": "反光镜总次数",
+    "after": "反光镜动作次数"
+  },
+  "Total Shots": {
+    "before": "拍摄总次数",
+    "after": "照片总张数"
+  },
+  "Max ISO Range": {
+    "before": "最高感光度范围",
+    "after": "感光度上限"
+  },
+  "Simple: only consider defocus blur, ignoring diffraction effects.": {
+    "before": "简单：仅考虑失焦模糊，不计算衍射。",
+    "after": "简易算法：只计算失焦模糊，不考虑衍射。"
+  },
+  "Diffraction-aware: consider both defocus and diffraction blur.": {
+    "before": "计算衍射：同时考虑失焦与衍射模糊。",
+    "after": "同时计算失焦和衍射造成的模糊。"
+  },
+  "ISO A": {
+    "before": "感光度甲",
+    "after": "感光度 A"
+  },
+  "ISO B": {
+    "before": "感光度乙",
+    "after": "感光度 B"
+  },
+  "HistoBar": {
+    "before": "直方信息条",
+    "after": "直方条"
+  },
+  "ML Digital ISO": {
+    "before": "数字感光度",
+    "after": "魔灯数字增益"
+  },
+  "SET / ": {
+    "before": "设置键 / ",
+    "after": "SET 键／"
+  },
+  "Take pictures at fixed intervals (for timelapse).": {
+    "before": "按固定间隔拍照，用于延时摄影。",
+    "after": "按固定间隔拍照，用于制作延时摄影。"
+  },
+  "Duration between two shots.": {
+    "before": "两次拍摄之间的间隔。",
+    "after": "相邻两次拍摄之间的时间间隔。"
+  },
+  "How to trigger the intervalometer start:": {
+    "before": "选择间隔拍摄的启动方式：",
+    "after": "选择间隔拍摄的启动方式。"
+  },
+  "On half-shutter press.": {
+    "before": "半按快门启动。",
+    "after": "半按快门时启动。"
+  },
+  "Start the intervalometer after X seconds / minutes / hours.": {
+    "before": "等待指定时间后开始间隔拍摄。",
+    "after": "等待设定时间后开始拍摄。"
+  },
+  "Stop the intervalometer after taking X shots.": {
+    "before": "拍够指定张数后停止。",
+    "after": "达到设定次数后停止；关闭则不限制次数。"
+  },
+  "For very long exposures (several minutes).": {
+    "before": "用于数分钟等较长时间的曝光。",
+    "after": "用于较长时间的B门曝光。"
+  },
+  "You can link MLU with self-timer (handy).": {
+    "before": "可将反光镜预升与自拍联动。",
+    "after": "可将反光镜预升与自拍定时器联动。"
+  },
+  "Handheld Debug": {
+    "before": "手持预升调试",
+    "after": "手持预升测试"
+  },
+  "After you take a picture, press SET to add a voice tag.": {
+    "before": "拍照后按设置键添加语音备注。",
+    "after": "拍照后按 SET 键添加语音备注。"
+  },
+  "Enable zoom when you hold the shutter halfway pressed.": {
+    "before": "允许半按快门时使用取景放大。",
+    "after": "半按快门时，仍可使用取景放大功能。"
+  },
+  "Adjust Kelvin white balance and GM/BA WBShift.": {
+    "before": "调整色温及绿品红、蓝琥珀白平衡偏移。",
+    "after": "调整色温，以及绿／洋红、蓝／琥珀方向的白平衡矫正。"
+  },
+  "Min Movie AutoISO": {
+    "before": "录像自动感光度下限",
+    "after": "录像自动ISO下限"
+  },
+  "Max Movie AutoISO": {
+    "before": "录像自动感光度上限",
+    "after": "录像自动ISO上限"
+  },
+  "Choose functions for arrows keys. Toggle w. ": {
+    "before": "选择方向键功能，切换方式：",
+    "after": "选择方向键的功能，切换方式："
+  },
+  "Use SET button": {
+    "before": "使用设置键",
+    "after": "使用 SET 键"
+  },
+  "Makes the DOF preview button sticky (press to toggle).": {
+    "before": "景深预览键改为按一下切换。",
+    "after": "按一下保持景深预览，再按一下取消。"
+  },
+  "Makes the half-shutter button sticky (press to toggle).": {
+    "before": "半按快门改为按一下切换。",
+    "after": "按一下保持半按快门状态，再按一下取消。"
+  },
+  "LV DIGIC peaking": {
+    "before": "硬件取景峰值",
+    "after": "硬件峰值对焦"
+  },
+  "Tip: if it gets really dark, also enable FPS override.": {
+    "before": "环境极暗时，可同时启用帧率覆盖。",
+    "after": "环境极暗时，可同时启用自定义帧率。"
+  },
+  "Kill Canon GUI": {
+    "before": "隐藏佳能图形",
+    "after": "隐藏佳能界面"
+  },
+  "LV crazy colors": {
+    "before": "取景特殊色彩",
+    "after": "取景色彩实验"
+  },
+  "Force HDMI-VGA": {
+    "before": "强制视频输出模式",
+    "after": "强制VGA输出"
+  },
+  "Image review settings": {
+    "before": "拍后回看设置",
+    "after": "拍摄后回看设置"
+  },
+  "Play mode actions": {
+    "before": "回放操作设置",
+    "after": "回放操作"
+  },
+  "Remember last Zoom pos": {
+    "before": "记住上次放大位置",
+    "after": "记住放大位置"
+  },
+  "SET+MainDial": {
+    "before": "设置键加主拨盘",
+    "after": "SET 键＋主拨盘"
+  },
+  "disarms the engine. This build is experimental and has not been": {
+    "before": "拍够次数后自动停止。此版本尚待实机验证。",
+    "after": "达到设定次数后自动停止。此版本尚待实机验证。"
+  },
+  "Be careful, high bitrates and sound recording don't mix.": {
+    "before": "高码率可能与录音冲突，请留意。",
+    "after": "高码率可能影响录音或录制稳定性。"
+  },
+  "Restart your camera to complete the process.": {
+    "before": "请重启相机完成此操作。",
+    "after": "请重启相机，使更改生效。"
+  },
+  "Only the current preset: %s": {
+    "before": "仅当前预设：%s",
+    "after": "仅使用当前方案：%s"
+  },
+  "Config preset is selected by startup mode (on the mode dial).": {
+    "before": "根据开机时模式转盘的位置选择配置。",
+    "after": "按开机时模式转盘的位置，选择对应的设置方案。"
+  },
+  "The new config preset will be used after you restart your camera.": {
+    "before": "新的配置预设会在重启相机后生效。",
+    "after": "重启相机后，使用新的设置方案。"
+  },
+  "Focus stack: %d of %d": {
+    "before": "景深合成：第%d／%d次",
+    "after": "分层拍摄：第%d／%d张"
+  },
+  "Focus stack done!": {
+    "before": "景深合成拍摄完成。",
+    "after": "景深合成所需照片已拍摄完成。"
+  },
+  "Focus stack not completed": {
+    "before": "景深合成拍摄未完成。",
+    "after": "景深合成所需照片未拍摄完成。"
+  },
+  "Focus stacking not configured.": {
+    "before": "尚未设置景深合成。",
+    "after": "请先设置景深合成拍摄参数。"
+  },
+  "Enable exposure override to get proper exposure simulation.": {
+    "before": "启用曝光覆盖，以获得正确的曝光模拟。",
+    "after": "启用扩展曝光控制，以获得正确的曝光模拟。"
+  },
+  "On 7D, FPS override can be used only with RAW, or in photo mode.": {
+    "before": "7D的帧率覆盖仅支持原始数据或照片模式。",
+    "after": "7D的自定义帧率仅支持原始数据或照片模式。"
+  },
+  "RAW HistoBar": {
+    "before": "原始数据亮度条",
+    "after": "RAW直方条"
+  },
+  "GREEN=shoot, CYAN=srm, BLUE=maybe free, RED=maybe used.": {
+    "before": "绿：拍摄；青：扩展；蓝：可能空闲；红：可能占用。",
+    "after": "绿色：拍摄内存；青色：扩展内存；蓝色：可能空闲；红色：可能占用。"
+  },
+  "Start & CPUlens": {
+    "before": "开始及电子镜头",
+    "after": "开机或电子镜头时"
+  },
+  "Use M mode to avoid exposure flicker.": {
+    "before": "请使用手动模式，以减少曝光闪烁。",
+    "after": "使用M挡手动曝光，减少延时摄影中的亮度闪烁。"
+  },
+  "Shoot wide-open or unscrew lens to avoid aperture flicker.": {
+    "before": "全开光圈拍摄可减少光圈变化引起的闪烁。",
+    "after": "可使用最大光圈，减少光圈收缩造成的亮度变化。"
+  },
+  "Use slow shutter speeds to avoid shutter flicker.": {
+    "before": "使用较慢快门可减少快门引起的闪烁。",
+    "after": "使用较慢的快门速度，减少帧间亮度差异。"
+  },
+  "Manual lens - cannot adjust aperture.": {
+    "before": "手动镜头无法电子调整光圈。",
+    "after": "手动镜头不支持通过相机调整光圈。"
+  },
+  "Adjusting white balance shift...": {
+    "before": "正在调整白平衡偏移……",
+    "after": "正在调整白平衡矫正……"
+  },
+  "via Expo.Override": {
+    "before": "通过曝光覆盖",
+    "after": "通过扩展曝光控制"
+  },
+  "Usable in complete darkness; try with FPS Override or Bulb Timer.": {
+    "before": "可用于极暗环境，可配合帧率覆盖或B门计时。",
+    "after": "可用于极暗环境，可配合自定义帧率或B门计时。"
+  },
+  "Expo Override is active, LiveView exposure may be incorrect.": {
+    "before": "曝光覆盖已开启，实时取景曝光可能不准确。",
+    "after": "扩展曝光控制已开启，实时取景曝光可能不准确。"
+  },
+  "LiveView exposure may be incorrect. Enable expo override to fix it.": {
+    "before": "实时取景曝光可能不准确，请启用曝光覆盖。",
+    "after": "实时取景曝光可能不准确，请启用扩展曝光控制。"
+  },
+  "GlobalDraw": {
+    "before": null,
+    "after": "辅助显示"
+  },
+  "Bulb Ramping": {
+    "before": null,
+    "after": "B门渐变曝光"
+  },
+  "Advanced Bracketing": {
+    "before": null,
+    "after": "包围拍摄"
+  },
+  "Interface style": {
+    "before": null,
+    "after": "界面风格"
+  },
+  "Classic": {
+    "before": null,
+    "after": "经典"
+  },
+  "Nordic": {
+    "before": null,
+    "after": "北欧"
+  },
+  "Nordic: large exposure readouts and a quiet menu theme. Classic restores the standard UI.": {
+    "before": null,
+    "after": "北欧界面突出曝光参数；选择经典可恢复原有显示。"
+  },
+  "Quick controls": {
+    "before": null,
+    "after": "常用功能"
+  },
+  "Open plan": {
+    "before": null,
+    "after": "设置计划"
+  },
+  "INFO: display": {
+    "before": null,
+    "after": "INFO 显示"
+  },
+  "Dial: select; SET: open / toggle.": {
+    "before": null,
+    "after": "拨盘选择，SET 进入或切换。"
+  },
+  "Left / Right: full Magic Lantern menus.": {
+    "before": null,
+    "after": "左右切换分类，可访问全部魔灯功能。"
+  },
+  "Open CamDesk interval shooting settings.": {
+    "before": null,
+    "after": "进入相机工作台，设置间隔和拍摄次数。"
+  },
+  "Could not change this setting.": {
+    "before": null,
+    "after": "未能修改此设置，请在完整菜单中检查。"
+  },
+  "Exit LiveView to change mirror lockup.": {
+    "before": null,
+    "after": "请先退出实时取景，再设置反光镜预升。"
+  },
+  "Camera status": {
+    "before": null,
+    "after": "当前参数"
+  },
+  "Nordic: clean current-parameter page; turn a dial to open the full menu.": {
+    "before": null,
+    "after": "先显示简洁参数屏，转动拨轮后进入完整菜单。"
+  },
+  "Current readings only. Turn a dial for the full menu.": {
+    "before": null,
+    "after": "显示当前相机参数，转动拨轮进入完整菜单。"
+  },
+  "AutoWB": {
+    "before": null,
+    "after": "自动白平衡"
+  },
+  "Enable the CamDesk module first.": {
+    "before": null,
+    "after": "请先在模块菜单中启用相机工作台。"
+  },
+  "Tab Home": {
+    "before": null,
+    "after": "首页"
+  },
+  "Tab Expo": {
+    "before": null,
+    "after": "曝光"
+  },
+  "Tab Overlay": {
+    "before": null,
+    "after": "辅助"
+  },
+  "Tab Movie": {
+    "before": null,
+    "after": "录像"
+  },
+  "Tab Shoot": {
+    "before": null,
+    "after": "拍摄"
+  },
+  "Tab Focus": {
+    "before": null,
+    "after": "对焦"
+  },
+  "Tab Display": {
+    "before": null,
+    "after": "显示"
+  },
+  "Tab Prefs": {
+    "before": null,
+    "after": "设置"
+  },
+  "Tab Modules": {
+    "before": null,
+    "after": "模块"
+  },
+  "Tab Debug": {
+    "before": null,
+    "after": "调试"
+  },
+  "Tab Help": {
+    "before": null,
+    "after": "帮助"
+  },
+  "Tab Favorites": {
+    "before": null,
+    "after": "收藏"
+  },
+  "Tab Scripts": {
+    "before": null,
+    "after": "脚本"
+  },
+  "Tab Games": {
+    "before": null,
+    "after": "游戏"
+  },
+  "Tab Audio": {
+    "before": null,
+    "after": "音频"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CamDesk Neutral Bold",
+  "derived_from": "Inter Display Bold 4.1",
+  "heights": [
+    12,
+    20,
+    23,
+    28,
+    32,
+    40,
+    56,
+    64,
+    96,
+    128,
+    160
+  ],
+  "horizontal_pixel_aspect_compensation": "9/8",
+  "coverage_bits": 4,
+  "encoding": "RLE16",
+  "bytes": 500869,
+  "sha256": "6263af53d66b5f44659adfe4fb0a88b309fa9925296219d3c1d72ffe90d76c2d"
+}

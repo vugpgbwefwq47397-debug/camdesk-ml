@@ -1,0 +1,1307 @@
+{
+  "AGC is enabled.": [
+    "audio-ak.c",
+    "audio-lapis.c"
+  ],
+  "Headphone monitoring is disabled": [
+    "audio-ak.c",
+    "audio-lapis.c"
+  ],
+  "Low Z": [
+    "audio-ak.c"
+  ],
+  "High Z": [
+    "audio-ak.c"
+  ],
+  "Mic power is required by internal mic, can't turn off.": [
+    "audio-ak.c"
+  ],
+  "Volume: %d + (%d,%d) dB": [
+    "audio-ak.c"
+  ],
+  "Volume: %d dB": [
+    "audio-ak.c"
+  ],
+  "Out Volume: %d dB": [
+    "audio-ak.c",
+    "audio-lapis.c"
+  ],
+  "log audio%02d.log saved": [
+    "audio-common.c"
+  ],
+  "Microphone %s": [
+    "audio-common.c"
+  ],
+  "connected": [
+    "audio-common.c",
+    "audio-common.c"
+  ],
+  "disconnected": [
+    "audio-common.c",
+    "audio-common.c"
+  ],
+  "Headphones %s": [
+    "audio-common.c"
+  ],
+  "Input: %s": [
+    "audio-common.c"
+  ],
+  "The 'Balanced' option is not working": [
+    "audio-lapis.c"
+  ],
+  "Now you got under 10Hz, but meter is wrong value signed": [
+    "audio-lapis.c"
+  ],
+  "AGC is enabled": [
+    "audio-lapis.c"
+  ],
+  "Notch Filter": [
+    "audio-lapis.c"
+  ],
+  "Notch EQ": [
+    "audio-lapis.c"
+  ],
+  "Enhnc REC": [
+    "audio-lapis.c"
+  ],
+  "Enhnc RECPLAY": [
+    "audio-lapis.c"
+  ],
+  "Loud": [
+    "audio-lapis.c"
+  ],
+  "Volume: %s + (%d,%d) dB": [
+    "audio-lapis.c"
+  ],
+  "WAV: subchunk not found": [
+    "beep.c"
+  ],
+  "WAV: data size wrong": [
+    "beep.c"
+  ],
+  "WAV: not enough memory": [
+    "beep.c"
+  ],
+  "Lost WAV data\nUse more faster card": [
+    "beep.c"
+  ],
+  "Recording...": [
+    "beep.c"
+  ],
+  "Record new audio clip": [
+    "beep.c"
+  ],
+  "600D does not support\nPlay and monitoring together": [
+    "beep.c",
+    "beep.c",
+    "beep.c"
+  ],
+  "Sound: %s": [
+    "beep.c"
+  ],
+  "Cannot record WAV sound \n": [
+    "beep.c"
+  ],
+  "with Canon audio enabled": [
+    "beep.c"
+  ],
+  "Beeps disabled to prevent interference with audio recording.": [
+    "beep.c"
+  ],
+  "Loaded %s": [
+    "bitrate-5d3.c"
+  ],
+  "%s not found": [
+    "bitrate-5d3.c"
+  ],
+  "Canon sound disabled": [
+    "bitrate-6d.c",
+    "bitrate-6d.c",
+    "bitrate.c",
+    "video_hacks.c"
+  ],
+  "Check": [
+    "bitrate-6d.c"
+  ],
+  "%d frames": [
+    "bitrate-6d.c",
+    "bitrate-6d.c",
+    "video_hacks.c",
+    "video_hacks.c"
+  ],
+  "Not writing! Check settings, reboot!": [
+    "bitrate-6d.c"
+  ],
+  "FW default%s": [
+    "bitrate.c"
+  ],
+  "(reboot)": [
+    "bitrate.c"
+  ],
+  "Restart your camera.": [
+    "bitrate.c"
+  ],
+  "Bit Rate (CBR)": [
+    "bitrate.c"
+  ],
+  " (default)": [
+    "bitrate.c"
+  ],
+  "Be careful, high bitrates and sound recording don't mix.": [
+    "bitrate.c"
+  ],
+  "Be careful, recording may stop.": [
+    "bitrate.c"
+  ],
+  "Be careful, image quality may be bad.": [
+    "bitrate.c"
+  ],
+  "Bit Rate (VBR)": [
+    "bitrate.c"
+  ],
+  "QScale %s%d": [
+    "bitrate.c"
+  ],
+  "Be careful, bitrate is not constant, recording may stop.": [
+    "bitrate.c"
+  ],
+  "CBR mode inactive => CBR setting not used.": [
+    "bitrate.c"
+  ],
+  "This is only an upper limit for the bitrate.": [
+    "bitrate.c"
+  ],
+  "VBR mode inactive => QScale setting not used.": [
+    "bitrate.c"
+  ],
+  "Bitrate may vary a lot (several orders of magnitude!)": [
+    "bitrate.c"
+  ],
+  "Bootflag write failed\np.type=%d, p.sec = %d, rc=%d": [
+    "bootflags.c"
+  ],
+  "Unknown partition: %d": [
+    "bootflags.c"
+  ],
+  "Unknown partition :(": [
+    "bootflags.c"
+  ],
+  "Restart your camera to complete the process.": [
+    "config.c"
+  ],
+  "Only the current preset: %s": [
+    "config.c"
+  ],
+  "Config preset is selected by startup mode (on the mode dial).": [
+    "config.c"
+  ],
+  "Camera was started in %s; restart to load the config for %s.": [
+    "config.c"
+  ],
+  "Restart to load the config for %s mode.": [
+    "config.c"
+  ],
+  "At startup, press&hold MENU/PLAY/": [
+    "config.c"
+  ],
+  " to select the cfg preset.": [
+    "config.c"
+  ],
+  "The new config preset will be used after you restart your camera.": [
+    "config.c"
+  ],
+  "Config: %s": [
+    "config.c"
+  ],
+  "You can't change crop mode while recording": [
+    "crop-mode-hack.c"
+  ],
+  "Crop video mode works in 1080p only": [
+    "crop-mode-hack.c"
+  ],
+  "ML/CROPMKS dir missing\n": [
+    "cropmarks.c"
+  ],
+  "Please copy all ML files!": [
+    "cropmarks.c"
+  ],
+  "TOO MANY CROPMARKS (max=%d)": [
+    "cropmarks.c"
+  ],
+  "Cropmarks are configured only for movie mode": [
+    "cropmarks.c"
+  ],
+  "Bitmap (%d/%d)": [
+    "cropmarks.c"
+  ],
+  "Will dump VRAMs in %d s...": [
+    "debug.c"
+  ],
+  "Dumping VRAMs...": [
+    "debug.c"
+  ],
+  "Done :)": [
+    "debug.c"
+  ],
+  "Trying GUI mode %d...": [
+    "debug.c"
+  ],
+  "Crash detected - log file saved.\n": [
+    "debug.c"
+  ],
+  "Pls send CRASH%02d.LOG to ML devs.\n": [
+    "debug.c"
+  ],
+  "Saving core dump, please wait...\n": [
+    "debug.c"
+  ],
+  "Pls send COREDUMP.DAT to ML devs.\n": [
+    "debug.c"
+  ],
+  "Saving debug log...": [
+    "debug.c"
+  ],
+  "Lets break Guiness World Records (rated lifespan %d).": [
+    "debug.c"
+  ],
+  "Lifespans are for wimps (rated lifespan %d).": [
+    "debug.c"
+  ],
+  "I hope I get to rated lifespan (rated lifespan %d).": [
+    "debug.c"
+  ],
+  "You may get around %d.": [
+    "debug.c"
+  ],
+  "May drift a bit - check after restart for accurate values.": [
+    "debug.c",
+    "debug.c",
+    "debug.c"
+  ],
+  "%d C, %d F, %d raw": [
+    "debug.c"
+  ],
+  "%d raw (help needed)": [
+    "debug.c"
+  ],
+  "Bootflags not written, use EosCard": [
+    "debug.c"
+  ],
+  "Now logging... ALL DebugMsg's :)": [
+    "dm-spy.c"
+  ],
+  "Saved %d bytes.": [
+    "dm-spy.c",
+    "tp-spy.c"
+  ],
+  "ResLock fail %x %x": [
+    "edmac-memcpy.c"
+  ],
+  "EDMAC timeout": [
+    "edmac-memcpy.c"
+  ],
+  "Please switch to LiveView": [
+    "focus.c"
+  ],
+  "Please switch to photo mode": [
+    "focus.c"
+  ],
+  "Please enable autofocus": [
+    "focus.c"
+  ],
+  "Focus stack: %dx%d": [
+    "focus.c"
+  ],
+  "Pre-focusing %d steps...": [
+    "focus.c"
+  ],
+  "Focus stack: %d of %d": [
+    "focus.c"
+  ],
+  "Focusing %d steps...": [
+    "focus.c"
+  ],
+  "Reversing %d steps...": [
+    "focus.c"
+  ],
+  "Focus stack done!": [
+    "focus.c"
+  ],
+  "Focus stack not completed": [
+    "focus.c"
+  ],
+  "steps from here": [
+    "focus.c"
+  ],
+  "(here)": [
+    "focus.c"
+  ],
+  "Please switch to Movie mode.": [
+    "focus.c",
+    "shoot.c"
+  ],
+  "Focus stacking not configured.": [
+    "focus.c"
+  ],
+  "(%d pics)": [
+    "focus.c"
+  ],
+  "Rack Focus: REC Start": [
+    "focus.c"
+  ],
+  "Rack Focus: REC Stop": [
+    "focus.c"
+  ],
+  "Arrows": [
+    "focus.c"
+  ],
+  "%dms": [
+    "focus.c"
+  ],
+  "Trap focus outside LiveView requires a chipped lens": [
+    "focus.c"
+  ],
+  "Assign AF button to half-shutter from CFn!": [
+    "focus.c"
+  ],
+  "Trap Focus: %s": [
+    "focus.c"
+  ],
+  "Focus point saved here.     \n": [
+    "focus.c"
+  ],
+  "To return to it, press PLAY.": [
+    "focus.c"
+  ],
+  "Roll.sh.%d%%": [
+    "fps-engio.c"
+  ],
+  "Sound recording must be disabled from Canon menu.": [
+    "fps-engio.c"
+  ],
+  "Enable exposure override to get proper exposure simulation.": [
+    "fps-engio.c"
+  ],
+  "On 7D, FPS override can be used only with RAW, or in photo mode.": [
+    "fps-engio.c"
+  ],
+  "%d.%03d (from %d)": [
+    "fps-engio.c"
+  ],
+  "%d (from %d)": [
+    "fps-engio.c"
+  ],
+  "FPS value is computed from photo shutter speed.": [
+    "fps-engio.c"
+  ],
+  "s / line": [
+    "fps-engio.c"
+  ],
+  "Rolling shutter: %s%d.%d ms (%d%%) at %dx%d.": [
+    "fps-engio.c"
+  ],
+  "Start recording to find out the vertical resolution.": [
+    "fps-engio.c"
+  ],
+  "FPS timer %s": [
+    "fps-engio.c"
+  ],
+  "Internal error - please report to ML devs.": [
+    "fps-engio.c"
+  ],
+  "%d.%02d MHz": [
+    "fps-engio.c"
+  ],
+  "FPS ramping disabled.": [
+    "fps-engio.c"
+  ],
+  "You need to disable gradual exposure.": [
+    "fps-engio.c"
+  ],
+  "FPS warning, possible overheating!\n": [
+    "fps-engio.c"
+  ],
+  "GPS is turned off from Canon menu, nothing to do.": [
+    "gps.c"
+  ],
+  "GPS set to external; this feature is only for the internal one.": [
+    "gps.c"
+  ],
+  "Internal GPS will be re-enabled at next startup.": [
+    "gps.c"
+  ],
+  "GPS broken (unknown state 0x%x)": [
+    "gps.c"
+  ],
+  "Double-check GMT_GUICMD consts": [
+    "gui-common.c"
+  ],
+  "Zoom greater than 3x is disabled.\n": [
+    "gui-common.c"
+  ],
+  "This entry is unused. Increase step count.": [
+    "hdr.c",
+    "hdr.c"
+  ],
+  "#%d: OFF": [
+    "hdr.c"
+  ],
+  "ON (Extended)": [
+    "hdr.c"
+  ],
+  "ISO %d/%d,%d.%dEV": [
+    "hdr.c"
+  ],
+  "Extended mode is enabled. Set ISO/Shutter on frame basis.": [
+    "hdr.c"
+  ],
+  "Will use Histobar in LiveView, RAW histogram after taking a pic.": [
+    "histogram.c"
+  ],
+  "Will use RAW histogram in LiveView and after taking a pic.": [
+    "histogram.c"
+  ],
+  "RAW HistoBar": [
+    "histogram.c"
+  ],
+  "RAW RGB": [
+    "histogram.c",
+    "zebra.c"
+  ],
+  "Luma (YUV)": [
+    "histogram.c"
+  ],
+  "RGB (YUV)": [
+    "histogram.c"
+  ],
+  "RAW N/A": [
+    "histogram.c"
+  ],
+  ", Log": [
+    "histogram.c"
+  ],
+  ", Linear": [
+    "histogram.c"
+  ],
+  "Clip warning  : %s": [
+    "histogram.c"
+  ],
+  "Gradual": [
+    "histogram.c"
+  ],
+  "Focus: soft limit reached": [
+    "lens.c"
+  ],
+  "Focus not confirmed": [
+    "lens.c"
+  ],
+  "(no lens)": [
+    "lens.c",
+    "lens.c",
+    "lens.c",
+    "lens.c",
+    "lens.c",
+    "lens.c",
+    "lens.c"
+  ],
+  "(none)": [
+    "lens.c",
+    "lens.c"
+  ],
+  "Value[%08x]": [
+    "lv-img-engio.c"
+  ],
+  "Shutter speed: 1/%d.%03d -> 1/%d.%03d (%s%d units)": [
+    "lv-img-engio.c"
+  ],
+  "Shutter speed: 1/%d -> 1/%d (%s%d units)": [
+    "lv-img-engio.c"
+  ],
+  "%s%d units": [
+    "lv-img-engio.c"
+  ],
+  "Not enough free memory.": [
+    "mem.c"
+  ],
+  "Would be nice to have at least 128K free here.": [
+    "mem.c"
+  ],
+  "Canon code requires around 1 MB from here.": [
+    "mem.c"
+  ],
+  "ML uses too much memory!!": [
+    "mem.c"
+  ],
+  "Trying to guess how much RAM we have...": [
+    "mem.c"
+  ],
+  "GREEN=shoot, CYAN=srm, BLUE=maybe free, RED=maybe used.": [
+    "mem.c"
+  ],
+  "Free & used memory from %s. %d blocks allocated.": [
+    "mem.c"
+  ],
+  "%s used": [
+    "mem.c"
+  ],
+  "Memory used from %s. %d blocks allocated.": [
+    "mem.c"
+  ],
+  "Max region: %s.": [
+    "mem.c"
+  ],
+  "This allocator does not implement get_max_region.": [
+    "mem.c"
+  ],
+  "Would be nice to have at least %s free here.": [
+    "mem.c"
+  ],
+  "Memory Error": [
+    "mem.c"
+  ],
+  "Memcheck overhead: %d.%d%%.": [
+    "mem.c"
+  ],
+  "Elapsed time: %d ms": [
+    "menu.c"
+  ],
+  "Simple...": [
+    "menu.c"
+  ],
+  "Advanced...": [
+    "menu.c"
+  ],
+  "Back to 'beginner' mode.": [
+    "menu.c"
+  ],
+  "Advanced options for experts. Use with care.": [
+    "menu.c"
+  ],
+  "Context help": [
+    "menuindex.c"
+  ],
+  "Open submenu": [
+    "menuindex.c",
+    "menuindex.c"
+  ],
+  "Missing symbol file: ": [
+    "module.c",
+    "module.c"
+  ],
+  "Module dir missing": [
+    "module.c"
+  ],
+  "Too many modules": [
+    "module.c"
+  ],
+  "Passing too many parameters to '%s'": [
+    "module.c"
+  ],
+  "(nonexistent)": [
+    "module.c"
+  ],
+  "You should never see this": [
+    "module.c"
+  ],
+  "Camera was not shut down cleanly.\r\nSkipping module loading.": [
+    "module.c"
+  ],
+  "1920x1080, 30fps": [
+    "movtweaks.c"
+  ],
+  "640x480, 30fps": [
+    "movtweaks.c"
+  ],
+  "Invalid": [
+    "movtweaks.c"
+  ],
+  "Sound is disabled.": [
+    "movtweaks.c"
+  ],
+  "Temporarily disabled (auto exposure on zoom).": [
+    "movtweaks.c"
+  ],
+  "Temporarily disabled (display gain active).": [
+    "movtweaks.c"
+  ],
+  "Temporarily disabled.": [
+    "movtweaks.c"
+  ],
+  "%d min": [
+    "movtweaks.c"
+  ],
+  "%d sec": [
+    "movtweaks.c"
+  ],
+  "1 EV / 8 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 16 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 32 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 64 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 128 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 256 frames": [
+    "movtweaks.c"
+  ],
+  "1 EV / 512 frames": [
+    "movtweaks.c"
+  ],
+  "Start & CPUlens": [
+    "movtweaks.c"
+  ],
+  "NONE": [
+    "patch.c",
+    "patch.c"
+  ],
+  "Patch %x overwritten (expected %x, got %x).": [
+    "patch.c"
+  ],
+  "%d ERR": [
+    "patch.c"
+  ],
+  "Cache is locked down (not exactly clean).": [
+    "patch.c"
+  ],
+  "REC:%s": [
+    "picstyle.c"
+  ],
+  "Picture Style : %s": [
+    "picstyle.c",
+    "picstyle.c"
+  ],
+  "wakeup: %d   ": [
+    "powersave.c"
+  ],
+  "DISPLAY OFF...": [
+    "powersave.c"
+  ],
+  "DISPLAY AND SENSOR OFF...": [
+    "powersave.c"
+  ],
+  "LCD brightness is automatic.\n": [
+    "powersave.c"
+  ],
+  "ML will not dim the display.": [
+    "powersave.c"
+  ],
+  "LCD brightness is auto in Canon menu. It won't work.": [
+    "powersave.c"
+  ],
+  "Only works when 'Auto power off' is disabled in Canon menu.": [
+    "powersave.c"
+  ],
+  "[MOVIE] This feature requires you shooting RAW.": [
+    "raw.c"
+  ],
+  "[PHOTO] Set picture quality to RAW in Canon menu.": [
+    "raw.c"
+  ],
+  "Timelapse: %dh%02dm, %d shots, %d fps => %02dm%02ds.": [
+    "shoot.c"
+  ],
+  "Take pics...": [
+    "shoot.c"
+  ],
+  "like crazy": [
+    "shoot.c"
+  ],
+  "Check auto power off setting (currently %ds).": [
+    "shoot.c",
+    "shoot.c",
+    "shoot.c"
+  ],
+  "Has no effect when trigger is set to take a pic": [
+    "shoot.c"
+  ],
+  "%d shots": [
+    "shoot.c"
+  ],
+  "Not enough space for %d shots (only for %d).": [
+    "shoot.c"
+  ],
+  "Also useful to trigger off of motion or trap focus": [
+    "shoot.c"
+  ],
+  "Use M mode to avoid exposure flicker.": [
+    "shoot.c"
+  ],
+  "Shoot wide-open or unscrew lens to avoid aperture flicker.": [
+    "shoot.c"
+  ],
+  "Use slow shutter speeds to avoid shutter flicker.": [
+    "shoot.c"
+  ],
+  "Use manual white balance to avoid WB flicker.": [
+    "shoot.c"
+  ],
+  "Disable autofocus.": [
+    "shoot.c"
+  ],
+  "Disable image stabilization.": [
+    "shoot.c"
+  ],
+  "ON, level=%d": [
+    "shoot.c"
+  ],
+  "%s, level=%d": [
+    "shoot.c"
+  ],
+  "EXP": [
+    "shoot.c"
+  ],
+  "DIF": [
+    "shoot.c"
+  ],
+  "STDY": [
+    "shoot.c"
+  ],
+  "Press shutter halfway and be careful (tricky feature).": [
+    "shoot.c"
+  ],
+  "With current settings, motion detect only works in LiveView.": [
+    "shoot.c"
+  ],
+  "Flash is automatic, can't adjust.": [
+    "shoot.c"
+  ],
+  "Taking pic...": [
+    "shoot.c"
+  ],
+  "Boo...": [
+    "shoot.c"
+  ],
+  "Raw err": [
+    "shoot.c"
+  ],
+  "Try zooming first": [
+    "shoot.c"
+  ],
+  "CompareImages: Not in PLAY mode": [
+    "shoot.c"
+  ],
+  "Please switch to photo mode.": [
+    "shoot.c"
+  ],
+  "%d,%s%d.%dEV": [
+    "shoot.c"
+  ],
+  "Shutter speed is automatic - cannot adjust manually.": [
+    "shoot.c"
+  ],
+  "Aperture is automatic - cannot adjust manually.": [
+    "shoot.c"
+  ],
+  "Manual lens - cannot adjust aperture.": [
+    "shoot.c"
+  ],
+  "Extended WB values are only applied to movies, not photos.": [
+    "shoot.c"
+  ],
+  "UniWB": [
+    "shoot.c"
+  ],
+  "Sunny": [
+    "shoot.c"
+  ],
+  "Cloudy": [
+    "shoot.c"
+  ],
+  "Tungsten": [
+    "shoot.c"
+  ],
+  "Fluor.": [
+    "shoot.c"
+  ],
+  "Custom": [
+    "shoot.c"
+  ],
+  "Shade": [
+    "shoot.c"
+  ],
+  "unknown": [
+    "shoot.c"
+  ],
+  "%s multiplier": [
+    "shoot.c"
+  ],
+  "Custom white balance is not active => not used.": [
+    "shoot.c"
+  ],
+  "Adjusting white balance...": [
+    "shoot.c"
+  ],
+  "Adjusting white balance shift...": [
+    "shoot.c"
+  ],
+  "Not working on SD monitors.": [
+    "shoot.c",
+    "shoot.c"
+  ],
+  "Amber ": [
+    "shoot.c"
+  ],
+  "Could not restore ExpSim :(": [
+    "shoot.c"
+  ],
+  "%s unnecessary and may cause excessive shutter wear.": [
+    "shoot.c"
+  ],
+  "%s%sx%d%sEV": [
+    "shoot.c"
+  ],
+  "DOF ": [
+    "shoot.c"
+  ],
+  ", ISO": [
+    "shoot.c"
+  ],
+  ", iso": [
+    "shoot.c"
+  ],
+  "Turn off Canon bracketing (AEB)!": [
+    "shoot.c"
+  ],
+  "Autodetect": [
+    "shoot.c",
+    "shoot.c"
+  ],
+  " (OFF)": [
+    "shoot.c"
+  ],
+  "Long exposure tools may use bulb timer value, even if BT is disabled.": [
+    "shoot.c"
+  ],
+  "Bulb timer only works in BULB mode": [
+    "shoot.c"
+  ],
+  "SelfTimer (ON)": [
+    "shoot.c"
+  ],
+  "SelfTimer (OFF)": [
+    "shoot.c"
+  ],
+  "HandH,1/2-1/125": [
+    "shoot.c"
+  ],
+  "Handheld": [
+    "shoot.c",
+    "shoot.c"
+  ],
+  "RAW": [
+    "shoot.c",
+    "zebra.c"
+  ],
+  "Med": [
+    "shoot.c"
+  ],
+  "Coarse": [
+    "shoot.c"
+  ],
+  "Fine": [
+    "shoot.c"
+  ],
+  "ISO,": [
+    "shoot.c"
+  ],
+  "This feature does not work with HDR bracketing.": [
+    "shoot.c"
+  ],
+  "No burst bracketing series, please.": [
+    "shoot.c"
+  ],
+  "Autofocus and bracketing don't mix.": [
+    "shoot.c"
+  ],
+  "Exposure (Tv,Ae)": [
+    "shoot.c"
+  ],
+  "Exposure (Flash)": [
+    "shoot.c"
+  ],
+  "DOF (Aperture)": [
+    "shoot.c"
+  ],
+  "Full": [
+    "shoot.c"
+  ],
+  "Half": [
+    "shoot.c"
+  ],
+  "Leave Menu": [
+    "shoot.c"
+  ],
+  "Half Shutter": [
+    "shoot.c"
+  ],
+  "Take a Pic": [
+    "shoot.c"
+  ],
+  "Don't change": [
+    "shoot.c"
+  ],
+  "Turn off": [
+    "shoot.c"
+  ],
+  "Show previous pic": [
+    "shoot.c"
+  ],
+  "Near": [
+    "shoot.c"
+  ],
+  "Away": [
+    "shoot.c"
+  ],
+  "Wave": [
+    "shoot.c"
+  ],
+  "Expo. change": [
+    "shoot.c"
+  ],
+  "Frame diff.": [
+    "shoot.c"
+  ],
+  "Steady hands": [
+    "shoot.c"
+  ],
+  "Self-Timer": [
+    "shoot.c"
+  ],
+  "All values": [
+    "shoot.c"
+  ],
+  "1 (OFF)": [
+    "shoot.c"
+  ],
+  "Enfuse": [
+    "shoot.c"
+  ],
+  "Align+Enfuse": [
+    "shoot.c"
+  ],
+  "File List": [
+    "shoot.c",
+    "shoot.c"
+  ],
+  "Bash": [
+    "shoot.c"
+  ],
+  "MS-DOS": [
+    "shoot.c"
+  ],
+  "Blink": [
+    "shoot.c"
+  ],
+  " & Beep": [
+    "shoot.c"
+  ],
+  "Shortcuts": [
+    "shoot.c"
+  ],
+  "Av,ISO": [
+    "shoot.c"
+  ],
+  "ISO,Av": [
+    "shoot.c"
+  ],
+  "Tv,ISO": [
+    "shoot.c"
+  ],
+  "ISO,Tv": [
+    "shoot.c"
+  ],
+  "Saved %s\n%s%04d.JPG ... %s%04d.JPG": [
+    "shoot.c"
+  ],
+  "Saved %s": [
+    "shoot.c"
+  ],
+  "Bracketing stopped.": [
+    "shoot.c"
+  ],
+  "Already recording ": [
+    "shoot.c"
+  ],
+  "movie_end: not movie mode (%d,%d) ": [
+    "shoot.c"
+  ],
+  "movie_end: not recording ": [
+    "shoot.c"
+  ],
+  "[HalfShutter] Bulb timer: %s": [
+    "shoot.c"
+  ],
+  "[2s] Bulb timer: %s": [
+    "shoot.c"
+  ],
+  "Bulb timer canceled.": [
+    "shoot.c",
+    "shoot.c"
+  ],
+  "[1s] Bulb timer: %s": [
+    "shoot.c"
+  ],
+  "Logging": [
+    "state-object.c"
+  ],
+  "Done": [
+    "state-object.c"
+  ],
+  "Scripts dir missing": [
+    "tcc-gui.c"
+  ],
+  "Too many scripts": [
+    "tcc-gui.c"
+  ],
+  "Script %s...": [
+    "tcc-gui.c"
+  ],
+  "Now logging... ALL TryPostEvent's :)": [
+    "tp-spy.c"
+  ],
+  "symbol 'trace_start' not found": [
+    "tskmon.c"
+  ],
+  "Not enough RAM": [
+    "tskmon.c"
+  ],
+  "via Expo.Override": [
+    "tweaks.c"
+  ],
+  "Usable in complete darkness; try with FPS Override or Bulb Timer.": [
+    "tweaks.c"
+  ],
+  "Expo Override is active, LiveView exposure may be incorrect.": [
+    "tweaks.c"
+  ],
+  "LiveView exposure may be incorrect. Enable expo override to fix it.": [
+    "tweaks.c"
+  ],
+  "Display Gain : %d EV": [
+    "tweaks.c"
+  ],
+  "LCD Backlight: %d": [
+    "tweaks.c"
+  ],
+  "Rate: %s%d...": [
+    "tweaks.c"
+  ],
+  "To use this feature, enable LCD Sensor Shortcuts in Misc Key Settings.": [
+    "tweaks.c"
+  ],
+  "To use LCD sensor, enable LCD Sensor Shortcuts in Misc Key Settings.": [
+    "tweaks.c"
+  ],
+  "LCD Sensor Shortcuts are disabled in this mode (see Misc Key Settings).": [
+    "tweaks.c"
+  ],
+  "Focus peaking with grayscale preview is enabled.": [
+    "tweaks.c",
+    "tweaks.c"
+  ],
+  "Auto (normal)": [
+    "tweaks.c"
+  ],
+  "Auto (low)": [
+    "tweaks.c"
+  ],
+  "Auto (very low)": [
+    "tweaks.c"
+  ],
+  "err": [
+    "tweaks.c",
+    "zebra-5dc.c",
+    "zebra-5dc.c",
+    "zebra.c",
+    "zebra.c",
+    "zebra.c",
+    "zebra.c",
+    "zebra.c"
+  ],
+  "Does not work on external monitors.": [
+    "tweaks.c",
+    "tweaks.c"
+  ],
+  "LCD Saturation  : %s": [
+    "tweaks.c"
+  ],
+  "0 (Grayscale)": [
+    "tweaks.c"
+  ],
+  "Very high": [
+    "tweaks.c"
+  ],
+  "LCD Saturation: Normal\n": [
+    "tweaks.c"
+  ],
+  "LCD Backlight : 5     \n": [
+    "tweaks.c"
+  ],
+  "Display Gain  : 0 EV  ": [
+    "tweaks.c"
+  ],
+  "Too much for this lil' cam... both defishing and anamorphic": [
+    "tweaks.c"
+  ],
+  "Idle/Menus": [
+    "tweaks.c"
+  ],
+  "Idle/Menus+Keys": [
+    "tweaks.c"
+  ],
+  "4:3 display,auto": [
+    "tweaks.c"
+  ],
+  "3:2 display,t/b": [
+    "tweaks.c"
+  ],
+  "16:10 HDMI,t/b": [
+    "tweaks.c"
+  ],
+  "16:9  HDMI,t/b": [
+    "tweaks.c"
+  ],
+  "Bottom,under 3:2": [
+    "tweaks.c"
+  ],
+  "Bottom,under16:9": [
+    "tweaks.c"
+  ],
+  "Master DIGiC hacks not available in this release.": [
+    "video_hacks.c",
+    "video_hacks.c"
+  ],
+  "Video hacks disabled.": [
+    "video_hacks.c",
+    "video_hacks.c"
+  ],
+  "RGB": [
+    "zebra-5dc.c",
+    "zebra-5dc.c",
+    "zebra.c",
+    "zebra.c"
+  ],
+  "LumaFast": [
+    "zebra-5dc.c",
+    "zebra.c"
+  ],
+  "global": [
+    "zebra-5dc.c",
+    "zebra.c"
+  ],
+  ",Gray": [
+    "zebra-5dc.c",
+    "zebra.c"
+  ],
+  "DirecPrint btn only": [
+    "zebra-5dc.c"
+  ],
+  "After taking a pic ": [
+    "zebra-5dc.c"
+  ],
+  "Clear overlays : %s": [
+    "zebra-5dc.c"
+  ],
+  "HalfShutter/DofP": [
+    "zebra-5dc.c"
+  ],
+  "WhenIdle": [
+    "zebra-5dc.c"
+  ],
+  "IRE -1..101": [
+    "zebra-5dc.c"
+  ],
+  "IRE 0..108": [
+    "zebra-5dc.c"
+  ],
+  "HSL": [
+    "zebra-5dc.c"
+  ],
+  "HSV": [
+    "zebra-5dc.c"
+  ],
+  "%d seconds => %d fps": [
+    "zebra-5dc.c",
+    "zebra.c"
+  ],
+  "Will use RAW RGB zebras %safter taking a pic.": [
+    "zebra.c"
+  ],
+  "in LiveView and ": [
+    "zebra.c"
+  ],
+  "Not used for RAW zebras.": [
+    "zebra.c"
+  ],
+  "DISP %d": [
+    "zebra.c"
+  ],
+  "Not compatible with HDMI 50p/60p.": [
+    "zebra.c"
+  ],
+  " (outside ML menu) to turn Canon displays off.": [
+    "zebra.c"
+  ],
+  "HalfS, ": [
+    "zebra.c"
+  ],
+  "Focus, ": [
+    "zebra.c"
+  ],
+  "ALW, ": [
+    "zebra.c",
+    "zebra.c"
+  ],
+  "Zrec, ": [
+    "zebra.c"
+  ],
+  "Small, ": [
+    "zebra.c"
+  ],
+  "Med, ": [
+    "zebra.c"
+  ],
+  "Large, ": [
+    "zebra.c"
+  ],
+  "AFbox, ": [
+    "zebra.c"
+  ],
+  "Magic Zoom does not work with SD monitors": [
+    "zebra.c"
+  ],
+  "Magic Zoom does not work in HDMI 1080i.": [
+    "zebra.c"
+  ],
+  "After using display filters, go outside LiveView and back.": [
+    "zebra.c"
+  ],
+  "Magic Zoom does not work well in current video mode": [
+    "zebra.c"
+  ],
+  "Full-screen Magic Zoom does not work in crop mode": [
+    "zebra.c"
+  ],
+  "Magic Zoom is not available in this mode": [
+    "zebra.c"
+  ],
+  "Percent RGB": [
+    "zebra.c"
+  ],
+  ", AFbox": [
+    "zebra.c"
+  ],
+  "Marshall": [
+    "zebra.c"
+  ],
+  "SmallHD": [
+    "zebra.c"
+  ]
+}

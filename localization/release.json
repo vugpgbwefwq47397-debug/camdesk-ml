@@ -1,0 +1,6 @@
+{
+  "version": "0.4.2-hui",
+  "tag": "0.4.2-hui",
+  "previous_version": "0.4.1-hui",
+  "scope": "Restore Hasselblad reference grid and icons, photo/live WB, EC and EV readings; fix DMA font reads"
+}

@@ -1,0 +1,738 @@
+{
+  "Record Digital Volume ": [
+    "audio-lapis.c:name"
+  ],
+  "Record Digital Volume. ": [
+    "audio-lapis.c:help"
+  ],
+  "Left Digital Gain ": [
+    "audio-lapis.c:name"
+  ],
+  "Load H264.ini     ": [
+    "bitrate-5d3.c:name"
+  ],
+  "Bit Rate     ": [
+    "bitrate-6d.c:name"
+  ],
+  "InitQP     ": [
+    "bitrate-6d.c:name"
+  ],
+  "Autoload Conf  ": [
+    "bitrate-6d.c:name"
+  ],
+  "Config Loaded ": [
+    "bitrate-6d.c:name"
+  ],
+  "QScale": [
+    "bitrate.c:name"
+  ],
+  "[GLOBAL] If you hold the SET button pressed at camera startup:": [
+    "config.c:help"
+  ],
+  "Do not load ML if you start the camera with SET pressed (default)": [
+    "config.c:help2"
+  ],
+  "Load ML only if SET is pressed at startup (optional)": [
+    "config.c:help2"
+  ],
+  "Show in photo mode": [
+    "cropmarks.c:name"
+  ],
+  "Show in PLAY mode": [
+    "cropmarks.c:name"
+  ],
+  "Val hex32": [
+    "debug.c:name"
+  ],
+  "Val int32": [
+    "debug.c:name"
+  ],
+  "Val int16": [
+    "debug.c:name"
+  ],
+  "Val int8": [
+    "debug.c:name"
+  ],
+  "Val string": [
+    "debug.c:name"
+  ],
+  "ROM0.BIN:F0000000, ROM1.BIN:F8000000, RAM4.BIN": [
+    "debug.c:help"
+  ],
+  "ROM0.BIN:      NA, ROM1.BIN:FE000000, RAM4.BIN": [
+    "debug.c:help"
+  ],
+  "ROM0.BIN:E0000000, ROM1.BIN:F0000000, RAM4.BIN": [
+    "debug.c:help"
+  ],
+  "Test GUI modes (DANGEROUS!!!)": [
+    "debug.c:name"
+  ],
+  "Total Shutter": [
+    "debug.c:name"
+  ],
+  "Total Mirror": [
+    "debug.c:name"
+  ],
+  "Total Shots": [
+    "debug.c:name"
+  ],
+  "(e.g. Kingston 16GB 266x is known to require this)": [
+    "fio-ml.c:help2"
+  ],
+  "Preferred card": [
+    "fio-ml.c:name"
+  ],
+  "Top bar": [
+    "flexinfo.c:name"
+  ],
+  "time hrs": [
+    "flexinfo.c:name"
+  ],
+  "time :": [
+    "flexinfo.c:name"
+  ],
+  "time min": [
+    "flexinfo.c:name"
+  ],
+  "Temp": [
+    "flexinfo.c:name"
+  ],
+  "TempBG": [
+    "flexinfo.c:name"
+  ],
+  "focal": [
+    "flexinfo.c:name"
+  ],
+  "focal mm": [
+    "flexinfo.c:name"
+  ],
+  "aperture": [
+    "flexinfo.c:name"
+  ],
+  "ISO icon": [
+    "flexinfo.c:name"
+  ],
+  "ISO val": [
+    "flexinfo.c:name"
+  ],
+  "wbmode": [
+    "flexinfo.c:name"
+  ],
+  "dist": [
+    "flexinfo.c:name"
+  ],
+  "Hrs": [
+    "flexinfo.c:name",
+    "flexinfo.c:name"
+  ],
+  "Min": [
+    "flexinfo.c:name",
+    "flexinfo.c:name"
+  ],
+  "Sec": [
+    "flexinfo.c:name",
+    "flexinfo.c:name"
+  ],
+  "Max ISO Range": [
+    "flexinfo.c:name"
+  ],
+  "K ICON1": [
+    "flexinfo.c:name"
+  ],
+  "K ICON2": [
+    "flexinfo.c:name"
+  ],
+  "FlexInfo Settings": [
+    "flexinfo.c:name"
+  ],
+  "Show boundaries": [
+    "flexinfo.c:name"
+  ],
+  "Use canon screen for edit": [
+    "flexinfo.c:name"
+  ],
+  "Simple: only consider defocus blur, ignoring diffraction effects.": [
+    "focus.c:help2"
+  ],
+  "Diffraction-aware: consider both defocus and diffraction blur.": [
+    "focus.c:help2"
+  ],
+  "Amount of jello effect. Multiply \"": [
+    "fps-engio.c:help"
+  ],
+  "To start ramping, press ": [
+    "fps-engio.c:help2"
+  ],
+  "ISO A": [
+    "hdr.c:name"
+  ],
+  "ISO B": [
+    "hdr.c:name"
+  ],
+  "HistoBar": [
+    "histogram.c:name"
+  ],
+  "NO LENS NAME": [
+    "lens.c:name"
+  ],
+  "Mid-range correction     ": [
+    "lv-img-engio.c:name"
+  ],
+  "Corner correction        ": [
+    "lv-img-engio.c:name"
+  ],
+  "ML Digital ISO": [
+    "lv-img-engio.c:name"
+  ],
+  "Register family": [
+    "lv-img-engio.c:name"
+  ],
+  "Register base  ": [
+    "lv-img-engio.c:name"
+  ],
+  "Register offset": [
+    "lv-img-engio.c:name"
+  ],
+  "Value          ": [
+    "lv-img-engio.c:name"
+  ],
+  "Altering mode  ": [
+    "lv-img-engio.c:name"
+  ],
+  "malloc": [
+    "mem.c:name"
+  ],
+  "RscMgr": [
+    "mem.c:name"
+  ],
+  "task_mem": [
+    "mem.c:name"
+  ],
+  "shoot_malloc": [
+    "mem.c:name"
+  ],
+  "srm_malloc": [
+    "mem.c:name"
+  ],
+  "stack space": [
+    "mem.c:name"
+  ],
+  "shoot contig": [
+    "mem.c:name"
+  ],
+  "shoot total": [
+    "mem.c:name"
+  ],
+  "SRM job total": [
+    "mem.c:name"
+  ],
+  "Press ": [
+    "menuindex.c:name",
+    "menuindex.c:name",
+    "menuindex.c:name",
+    "menuindex.c:name"
+  ],
+  "SET / ": [
+    "menuindex.c:name"
+  ],
+  "Enable movie recording on 50D :) ": [
+    "movtweaks.c:help"
+  ],
+  "=> adjust ISO, shutter speed and aperture without large jumps.": [
+    "movtweaks.c:help2"
+  ],
+  "Use LCD sensor": [
+    "powersave.c:name"
+  ],
+  "Advanced bracketing (expo, flash, DOF). Press shutter once.": [
+    "shoot.c:help"
+  ],
+  "Choose the variables to bracket:": [
+    "shoot.c:help"
+  ],
+  "Expo bracket. M: changes shutter. Others: changes AEcomp.": [
+    "shoot.c:help2"
+  ],
+  "Flash bracket: change flash exposure compensation.": [
+    "shoot.c:help2"
+  ],
+  "DOF bracket: keep exposure constant, change Av/Tv ratio.": [
+    "shoot.c:help2"
+  ],
+  "Number of bracketed shots. Can be computed automatically.": [
+    "shoot.c:help"
+  ],
+  "Exposure difference between two frames.": [
+    "shoot.c:help"
+  ],
+  "Bracketing sequence order / type. Zero is always first.": [
+    "shoot.c:help"
+  ],
+  "Take darker images.": [
+    "shoot.c:help2"
+  ],
+  "Take dark, bright, even darker, even brigther images, in that order": [
+    "shoot.c:help2"
+  ],
+  "Take brighter images.": [
+    "shoot.c:help2"
+  ],
+  "Delay before starting the exposure.": [
+    "shoot.c:help"
+  ],
+  "Also use ISO as bracket variable. Range: 100 - max AutoISO.": [
+    "shoot.c:help"
+  ],
+  " ": [
+    "shoot.c:help2",
+    "tweaks.c:help2",
+    "tweaks.c:help2",
+    "tweaks.c:help2",
+    "tweaks.c:help2",
+    "tweaks.c:help2",
+    "zebra.c:help2"
+  ],
+  "Full: try ISO bracket first. If out of range, use main var.": [
+    "shoot.c:help2"
+  ],
+  "Half: Bracket with both ISO (50%) and main variable (50%).": [
+    "shoot.c:help2"
+  ],
+  "Take pictures at fixed intervals (for timelapse).": [
+    "shoot.c:help"
+  ],
+  "Duration between two shots.": [
+    "shoot.c:help"
+  ],
+  "How to trigger the intervalometer start:": [
+    "shoot.c:help"
+  ],
+  "When you exit ML menu, or at camera startup.": [
+    "shoot.c:help2"
+  ],
+  "On half-shutter press.": [
+    "shoot.c:help2"
+  ],
+  "After you take the first picture.": [
+    "shoot.c:help2"
+  ],
+  "Start the intervalometer after X seconds / minutes / hours.": [
+    "shoot.c:help"
+  ],
+  "Stop the intervalometer after taking X shots.": [
+    "shoot.c:help"
+  ],
+  "For very long exposures (several minutes).": [
+    "shoot.c:help"
+  ],
+  "Turn the screen on/off while taking bulb exposure.": [
+    "shoot.c:help"
+  ],
+  "Use the LCD face sensor as a simple remote (avoids shake).": [
+    "shoot.c:help"
+  ],
+  "Clap your hands or pop a balloon to take a picture.": [
+    "shoot.c:help"
+  ],
+  "Picture taken when sound level becomes X dB above average.": [
+    "shoot.c:help"
+  ],
+  "Take a picture when subject is moving or exposure changes.": [
+    "shoot.c:help"
+  ],
+  "Choose when the picture should be taken:": [
+    "shoot.c:help"
+  ],
+  "EXP: reacts to exposure changes (large movements).": [
+    "shoot.c:help2"
+  ],
+  "DIF: detects smaller movements that do not change exposure.": [
+    "shoot.c:help2"
+  ],
+  "STDY: take pic if there's little or no motion (cam steady).": [
+    "shoot.c:help2"
+  ],
+  "Higher values = less sensitive to motion.": [
+    "shoot.c:help"
+  ],
+  "Size of the area on which motion shall be detected.": [
+    "shoot.c:help"
+  ],
+  "Delay between the detected motion and the picture taken.": [
+    "shoot.c:help"
+  ],
+  "You can toggle MLU w. DirectPrint or link it to self-timer.": [
+    "shoot.c:help"
+  ],
+  "You can link MLU with self-timer (handy).": [
+    "shoot.c:help"
+  ],
+  "Choose when mirror lock-up should be active:": [
+    "shoot.c:help"
+  ],
+  "Always ON: just the Canon mode, press shutter twice.": [
+    "shoot.c:help2"
+  ],
+  "Self-Timer: MLU setting will be linked to Canon self-timer.": [
+    "shoot.c:help2"
+  ],
+  "Handheld: trick to reduce camera shake. Press shutter once.": [
+    "shoot.c:help2"
+  ],
+  "At what shutter speeds you want to use handheld MLU.": [
+    "shoot.c:help"
+  ],
+  "Delay between mirror and shutter movement.": [
+    "shoot.c:help"
+  ],
+  "Handheld Debug": [
+    "shoot.c:name"
+  ],
+  "Check whether the 'mirror up' event is detected correctly.": [
+    "shoot.c:help"
+  ],
+  "Experimental SRAW/MRAW mode. You may get corrupted files.": [
+    "shoot.c:help"
+  ],
+  "After you take a picture, press SET to add a voice tag.": [
+    "shoot.c:help"
+  ],
+  "Flash exposure compensation, 3rd party flash in LiveView...": [
+    "shoot.c:help"
+  ],
+  "Flash exposure compensation, from -10EV to +3EV.": [
+    "shoot.c:help"
+  ],
+  "Take odd pictures with flash, even pictures without flash.": [
+    "shoot.c:help"
+  ],
+  "!!! DISABLE THIS OPTION WHEN YOU ARE NOT USING IT !!!  ": [
+    "shoot.c:help2"
+  ],
+  "Autofocus, number of pics to take at once...": [
+    "shoot.c:help"
+  ],
+  "How many pictures to take at once (for each trigger event).": [
+    "shoot.c:help"
+  ],
+  "For intervalometer, audio remote shot and motion detect.": [
+    "shoot.c:help"
+  ],
+  "Post-processing scripts for bracketing and focus stacking.": [
+    "shoot.c:help"
+  ],
+  "Scripts for sorting intervalometer sequences.": [
+    "shoot.c:help"
+  ],
+  "You can take virtual (fake) pictures just for testing.": [
+    "shoot.c:help"
+  ],
+  "Disable x5 or x10, boost contrast/sharpness...": [
+    "shoot.c:help"
+  ],
+  "Disable the screen that lets you move the focus box before zooming": [
+    "shoot.c:help"
+  ],
+  "(displayed as 'Zoom x1' on Canon' user interface)": [
+    "shoot.c:help2"
+  ],
+  "Disable x5 zoom in LiveView.": [
+    "shoot.c:help"
+  ],
+  "Disable x10 zoom in LiveView.": [
+    "shoot.c:help"
+  ],
+  "Auto adjusts exposure, so you can focus manually wide open.": [
+    "shoot.c:help"
+  ],
+  "Increase sharpness and contrast when you zoom in LiveView.": [
+    "shoot.c:help"
+  ],
+  "Enable zoom when you hold the shutter halfway pressed.": [
+    "shoot.c:help"
+  ],
+  "Zoom when you turn the focus ring (only some Canon lenses).": [
+    "shoot.c:help"
+  ],
+  "Double-click top-right button in LV. Shortcuts or Zoom.": [
+    "shoot.c:help"
+  ],
+  "Use the old Zoom In button, as in 5D2. Double-click in LV.": [
+    "shoot.c:help"
+  ],
+  "Adjust Kelvin white balance and GM/BA WBShift.": [
+    "shoot.c:help"
+  ],
+  "Min Movie AutoISO": [
+    "shoot.c:name"
+  ],
+  "Max Movie AutoISO": [
+    "shoot.c:name"
+  ],
+  "ISO -> ": [
+    "shoot.c:name"
+  ],
+  "Rename CR2 to AVI": [
+    "tweaks-eyefi.c:name"
+  ],
+  "Rename AVI to CR2": [
+    "tweaks-eyefi.c:name"
+  ],
+  "Rename 422 to MP4": [
+    "tweaks-eyefi.c:name"
+  ],
+  "Rename MP4 to 422": [
+    "tweaks-eyefi.c:name"
+  ],
+  "Tweaks for LiveView focus box: move faster, snap to points.": [
+    "tweaks.c:help"
+  ],
+  "Move the focus box faster (in LiveView).": [
+    "tweaks.c:help"
+  ],
+  "Snap the focus box to preset points (press CENTER key)": [
+    "tweaks.c:help"
+  ],
+  "You can hide the focus box (the little white rectangle).": [
+    "tweaks.c:help"
+  ],
+  "Choose functions for arrows keys. Toggle w. ": [
+    "tweaks.c:help"
+  ],
+  "ISO/Kelvin": [
+    "tweaks.c:name"
+  ],
+  "Shutter/Aperture": [
+    "tweaks.c:name"
+  ],
+  "LCD Bright/Saturation": [
+    "tweaks.c:name"
+  ],
+  "Use SET button": [
+    "tweaks.c:name"
+  ],
+  "Misc options related to shortcut keys.": [
+    "tweaks.c:help"
+  ],
+  "Use the LCD face sensor as an extra key in ML.": [
+    "tweaks.c:help"
+  ],
+  "Makes the DOF preview button sticky (press to toggle).": [
+    "tweaks.c:help"
+  ],
+  "Makes the half-shutter button sticky (press to toggle).": [
+    "tweaks.c:help"
+  ],
+  "Swaps MENU and ERASE buttons.": [
+    "tweaks.c:help"
+  ],
+  "Swaps INFO and PLAY buttons.": [
+    "tweaks.c:help"
+  ],
+  "LV DIGIC peaking": [
+    "tweaks.c:name"
+  ],
+  "Focus peaking via DIGIC. No CPU usage!": [
+    "tweaks.c:help"
+  ],
+  "LV brightness": [
+    "tweaks.c:name"
+  ],
+  "For LiveView preview only. Does not affect recording.": [
+    "tweaks.c:help",
+    "tweaks.c:help",
+    "tweaks.c:help",
+    "tweaks.c:help2"
+  ],
+  "LV contrast": [
+    "tweaks.c:name"
+  ],
+  "LV saturation": [
+    "tweaks.c:name"
+  ],
+  "Boost on WB: increase saturation when you are adjusting WB.": [
+    "tweaks.c:help2"
+  ],
+  "LV display gain": [
+    "tweaks.c:name"
+  ],
+  "Makes LiveView usable in complete darkness (photo mode).": [
+    "tweaks.c:help"
+  ],
+  "Tip: if it gets really dark, also enable FPS override.": [
+    "tweaks.c:help2"
+  ],
+  "Clear bitmap overlays from LiveView display.": [
+    "tweaks.c:help"
+  ],
+  "Preview straightened images from fisheye lenses. LV+PLAY.": [
+    "tweaks.c:help"
+  ],
+  "Stretches LiveView image vertically, for anamorphic lenses.": [
+    "tweaks.c:help"
+  ],
+  "Screen orientation, position fine-tuning...": [
+    "tweaks.c:help"
+  ],
+  "Kill Canon GUI": [
+    "tweaks.c:name"
+  ],
+  "Workarounds for disabling Canon graphics elements.": [
+    "tweaks.c:help"
+  ],
+  "Screen Layout": [
+    "tweaks.c:name"
+  ],
+  "Image position": [
+    "tweaks.c:name"
+  ],
+  "UpsideDown mode": [
+    "tweaks.c:name"
+  ],
+  "Orientation": [
+    "tweaks.c:name"
+  ],
+  "LV crazy colors": [
+    "tweaks.c:name"
+  ],
+  "Swap U-V: reverses red and blue components": [
+    "tweaks.c:help2"
+  ],
+  "Extreme Chroma: highly saturated image showing WB direction": [
+    "tweaks.c:help2"
+  ],
+  "Force HDMI-VGA": [
+    "tweaks.c:name"
+  ],
+  "Image review settings": [
+    "tweaks.c:name"
+  ],
+  "Play mode actions": [
+    "tweaks.c:name"
+  ],
+  "When you set \"ImageReview: Hold\", it will go to Play mode.": [
+    "tweaks.c:help",
+    "tweaks.c:help"
+  ],
+  "Remember last Zoom pos": [
+    "tweaks.c:name"
+  ],
+  "LV button": [
+    "tweaks.c:name"
+  ],
+  "SET+MainDial": [
+    "tweaks.c:name"
+  ],
+  "UV scaling": [
+    "vectorscope.c:name"
+  ],
+  "Show Overlay": [
+    "zebra-5dc.c:name"
+  ],
+  "Grayscale img.": [
+    "zebra-5dc.c:name"
+  ],
+  "Palette": [
+    "zebra-5dc.c:name"
+  ],
+  "Strong edges: looks for edges, works best in low light.": [
+    "zebra.c:help2"
+  ],
+  "Balanced: tries to cover both strong edges and fine details.": [
+    "zebra.c:help2"
+  ],
+  "Fine details: looks for microcontrast. Needs lots of light.": [
+    "zebra.c:help2"
+  ],
+  "Percentage of overall brightness level.": [
+    "zebra.c:help2"
+  ],
+  "8 bit RGB level.": [
+    "zebra.c:help2"
+  ],
+  "HTML like color codes.": [
+    "zebra.c:help2"
+  ],
+  "Negative value from clipping, in EV (RAW).": [
+    "zebra.c:help2"
+  ],
+  "RGB color in Percentage.": [
+    "zebra.c:help2"
+  ],
+  "Display the dynamic range at current ISO, from noise stdev.": [
+    "zebra.c:help2"
+  ],
+  "Show how many stops you can push the exposure to the right.": [
+    "zebra.c:help2"
+  ],
+  "Num. of LV display presets. Switch with ": [
+    "zebra.c:help"
+  ],
+  "CamDesk": [
+    "camdesk.c:name"
+  ],
+  "Automatic shooting using the native ML intervalometer.": [
+    "camdesk.c:help"
+  ],
+  "Session status": [
+    "camdesk.c:name"
+  ],
+  "Armed: exit menu, hold half-shutter, then release to start.": [
+    "camdesk.c:help"
+  ],
+  "Interval (seconds)": [
+    "camdesk.c:name"
+  ],
+  "Time between cycles. Applies on the next Arm plan.": [
+    "camdesk.c:help"
+  ],
+  "Delay (seconds)": [
+    "camdesk.c:name"
+  ],
+  "Initial delay after the trigger (native ML minimum: 1 sec).": [
+    "camdesk.c:help"
+  ],
+  "Number of cycles": [
+    "camdesk.c:name"
+  ],
+  "Finite sequence length. Native shooting settings still apply.": [
+    "camdesk.c:help"
+  ],
+  "Arm plan": [
+    "camdesk.c:name"
+  ],
+  "Apply settings; start later with half-shutter. Does not shoot now.": [
+    "camdesk.c:help"
+  ],
+  "Stop / Disarm": [
+    "camdesk.c:name"
+  ],
+  "Disable ML intervalometer; an exposure in progress may finish.": [
+    "camdesk.c:help"
+  ],
+  "Session progress": [
+    "camdesk.c:name"
+  ],
+  "Native cycle counter; saved files are not independently verified.": [
+    "camdesk.c:help"
+  ],
+  "CamDesk version": [
+    "camdesk.c:name"
+  ],
+  "Menu prototype. Camera testing is pending.": [
+    "camdesk.c:help"
+  ],
+  "Development target": [
+    "camdesk.c:name"
+  ],
+  "Intended platform, not detected hardware.": [
+    "camdesk.c:help"
+  ],
+  "Input check": [
+    "camdesk.c:name"
+  ],
+  "Select to increment the session counter (wraps at 10000).": [
+    "camdesk.c:help"
+  ]
+}

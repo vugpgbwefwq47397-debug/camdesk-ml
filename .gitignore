@@ -1,0 +1,7 @@
+upstream/
+build/
+dist/
+backups/
+downloads/
+__pycache__/
+*.zip

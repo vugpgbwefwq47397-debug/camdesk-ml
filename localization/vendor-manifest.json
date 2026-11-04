@@ -1,0 +1,131 @@
+{
+  "repository": "ChaseChanCN/magiclantern",
+  "commit": "a41f406a6c50b998089fa65dc1d70164d2da40b8",
+  "license": "GPL-2.0",
+  "files": [
+    {
+      "path": "COPYING",
+      "sha": "d159169d1050894d3ea3b98e1c965c4058208fe1"
+    },
+    {
+      "path": "data/fonts/cjk12.rbf",
+      "sha": "d69b2d13caf13eabadcd2b847229e1a3736aab3f"
+    },
+    {
+      "path": "data/fonts/cjk23.rbf",
+      "sha": "3118fe9dba3abe1d9c4bd788e4f5913d2270ed28"
+    },
+    {
+      "path": "data/fonts/cjk28.rbf",
+      "sha": "61094294da8d9d88c722d918a34e3e75df45fc79"
+    },
+    {
+      "path": "data/fonts/cjk32.rbf",
+      "sha": "912da7d450c64da0ef60c049391c5e73da3eef10"
+    },
+    {
+      "path": "localization/all_chars.txt",
+      "sha": "097bbccbb2504e007aa6f72c84387df631219b48"
+    },
+    {
+      "path": "localization/apply_zh.py",
+      "sha": "176196b326066f9a48af8876582a0550368f3513"
+    },
+    {
+      "path": "localization/apply_zh_full.py",
+      "sha": "d45b66445fcf18640a2d67c1151c45d31787b13b"
+    },
+    {
+      "path": "localization/chars.txt",
+      "sha": "5d4c8f68751688434b6b042458dd286a09e8abfb"
+    },
+    {
+      "path": "localization/cjk_font_gen.py",
+      "sha": "75e089ef48f7deb248b4429a94532abed207e73f"
+    },
+    {
+      "path": "localization/collect_chars.py",
+      "sha": "5e39abcc37559a9acbc511e88fdb102f14d78ab5"
+    },
+    {
+      "path": "localization/extract_cjk_chars.py",
+      "sha": "c90ea0b1c71cd3a4290e68160eb3b87df6831344"
+    },
+    {
+      "path": "localization/extract_names.py",
+      "sha": "14e84937fb7b744a764c936f3ab2fe1e995af3a2"
+    },
+    {
+      "path": "localization/extract_strings.py",
+      "sha": "c3db60e785a59197b6f90fb02d1e1ea46262a2a2"
+    },
+    {
+      "path": "localization/find_untranslated.py",
+      "sha": "c61031ace8cfd8c60f6ee3e125d8397b27deee1b"
+    },
+    {
+      "path": "localization/fix_all_help.py",
+      "sha": "2bd5c877f8ed2562467eb0d734bb9abd88c092d9"
+    },
+    {
+      "path": "localization/fix_final_help.py",
+      "sha": "3a24f241dcb5b3248f796eb738a2e9e928955ac5"
+    },
+    {
+      "path": "localization/fix_help_batch2.py",
+      "sha": "be9ad4fc7744dca36fb21bcf2835fb7b1d761289"
+    },
+    {
+      "path": "localization/fix_help_batch3.py",
+      "sha": "bb78b4f130102e2407f4365a0bca2e5e252f229b"
+    },
+    {
+      "path": "localization/fix_help_texts.py",
+      "sha": "2c8f910a24859d073b17dff7442a41ccc848630c"
+    },
+    {
+      "path": "localization/fix_readme_short.py",
+      "sha": "70f22f9c6508a0a77a2fb6d806126b67055f2849"
+    },
+    {
+      "path": "localization/fix_translations.py",
+      "sha": "4eacfa56b0728be2dc0196bed60b164928fa8aa7"
+    },
+    {
+      "path": "localization/gen_help_pages.py",
+      "sha": "8fed0487650effe725104db62fecfe05dbc93d66"
+    },
+    {
+      "path": "localization/gen_menuidx.py",
+      "sha": "dc96749628d61db45434e9250a872c14e24cabb4"
+    },
+    {
+      "path": "localization/strings_all.txt",
+      "sha": "260bf4be9408cacd9bd88617a1e8db53222d5435"
+    },
+    {
+      "path": "localization/translate_readmes.py",
+      "sha": "c24cef4c1868f7a30551bad96cdbc255dd4e3909"
+    },
+    {
+      "path": "localization/zh_dict.json",
+      "sha": "554a7a787ea7d89f7bb48c0aba246a88aa661e4e"
+    },
+    {
+      "path": "localization/zh_dict_ext.json",
+      "sha": "58b7454b837092ffc2599a13955908682b928dd4"
+    },
+    {
+      "path": "src/cjk_font.c",
+      "sha": "6735e765b8642f6e56df713c011d526cc10965d7"
+    },
+    {
+      "path": "src/cjk_font.h",
+      "sha": "1447aaf034ac3eccae4aba81bab78b2babce5022"
+    },
+    {
+      "path": "src/rbf_font.c",
+      "sha": "6f76a702cf78c987ebc94bd3b8c272ba10b38f35"
+    }
+  ]
+}

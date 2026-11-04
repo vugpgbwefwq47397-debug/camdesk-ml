@@ -1,0 +1,9 @@
+{
+  "src/rbf_font.c": "3bf36ca0505d63f43c3f2ba6ba81f1b6f3efba5ea395ec1b07ada95d84457be1",
+  "src/bmp.c": "1505744d39f6362121a17b514be7d51daa343ea30a96641b2d4a2cbad1f2c73b",
+  "src/notify_box.c": "ccdc0aba33485adba715be5a7d70c8f86bb8e78de289f28ccc2bc99cafb45221",
+  "src/menu.c": "2d3a799876ab95cd4c9f1b2a853b4040694340bb72563b20075646e4eb4745ec",
+  "src/menu.h": "2ea572af428ade5b955f5a9cdd9ef879c0b4863799b902184bf12e593e7934dc",
+  "src/lens.c": "50de1f0ced7ed50a55d25b05b4cec00898a63a1629a487d83e3c4aaa148d1f8d",
+  "platform/Makefile": "05504d2c3813bd55a3b0e4ff82f827863e14c765aad4b9dbaf42de0f0d8d2643"
+}

@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/reticulatedpines/magiclantern_simplified.git",
+  "ref": "dev",
+  "commit": "142472e95054d73640f50789ac0fd66325499d82",
+  "target": "50D.109",
+  "camera_firmware_reported": "1.0.9",
+  "source_directory": "upstream/ml"
+}
